@@ -128,14 +128,17 @@
                 <div type="advert" xml:id="deg-ad-blm03">
                     <head>BIBBY LINE MAIL TWIN-SCREW STEAMERS.</head>
                     <p>OUTWARDS to COLOMBO, TUTICORIN, etc., and RANGOON.</p>
-                    <p><name>S.S. Staffordshire</name> 7,160 tons, will leave Suez about <date
+                    <p><name>S.S. Worcestershire</name> 7,160 tons, will leave Suez about <date
                             when="1907-09-26">September 26th</date>.</p>
                     <p>HOMEWARDS to MARSEILLES and LONDON.</p>
-                    <p><name>S.S. Cheshire</name>
+                    <p><name>S.S. Shropshire</name>
                         <measure quantity="5775" unit="ton">5,775 tons</measure>, will leave Port
                         Said about <date when="1907-09-30">September 30</date>.</p>
-                    <p>Fares from Port Said to Marseilles £3.0.0 ; London £12.0.0 ; Colombo £32.10.0
-                        ; Rangood £37.10.0</p>
+                    <p>SPECIAL REDUCED FARES DURING THE SUMMER SEASON</p>
+                    <p><hi rend="italic"><date when="1907-05-26">May 23th</date>-<date
+                                when="1907-09-30">September 30th</date></hi></p>
+                    <p>Fares from Port Said to Marseilles £8.0.0 ; London £12.0.0 ; Colombo £32.10.0
+                        ; Rangoon £37.10.0</p>
                     <p>Fitted with Refigerators, Electric Light, Electric Fans and all recent
                         improvements.</p>
                     <p>SPECIAL REDUCED FARES DURING THE SUMMER SEASON. <measure type="indexNo"
@@ -190,7 +193,7 @@
                     <p>
                         <date when="1907-09-23">July 31</date>
                         <placeName>Delos</placeName> from <placeName>Antwerp</placeName>.</p>
-                    <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria, Agent.</p>
+                    <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria Agent.</p>
                     <p><measure type="indexNo">15-9-907</measure></p>
                 </div>
                 <div type="advert" xml:id="deg-ad-mss01">
@@ -203,7 +206,6 @@
                             <cell>Tons. 4,000</cell>
                             <cell>*Khephres</cell>
                             <cell>Tons 5,000</cell>
-
                             <cell>*Meeris</cell>
                             <cell>Tons 7,500</cell>
                         </row>
@@ -237,7 +239,7 @@
 
                     <p>Through freight rates on cotton, etc., to Lancashire inland towns, Boston,
                         New York and other U.S.A. towns, obtained on application. Cargo taken by
-                        special agreement only.Passenger Tickets also issued inclusive of Railway
+                        special agreement only. Passenger Tickets also issued inclusive of Railway
                         fare through to and from Cairo.</p>
                     <p><measure type="indexNo">26-5-905</measure> For Particulars applyc R. J. MOSS
                         &amp; Co., Alexandria, Agents.</p>
@@ -251,11 +253,10 @@
                         £7</p>
                     <p><name>S.S. AMARAPOORA </name> Tons <measure quantity="6000" unit="ton"
                             >6600</measure> will leave PORT SAID about <date when="1907-09-17">17th
-                            Sept. for Dover </date> for London.</p>
+                            Sept.</date>for Dover</p>
                     <p><name><!-- Cannot read --></name>
-                        <measure quantity="5800" unit="ton">5600</measure> will leave PORT SAID
-                        about <date when="1907-09-28">28th Sept. <!-- cannot read --></date> for
-                        London.</p>
+                        <measure quantity="5800" unit="ton">5800</measure> will leave PORT SAID
+                        about <date when="1907-09-28">28th Sept.</date> for Dover.</p>
                     <p><hi rend="bold">Due in LONDON or LIVERPOOL in 13 days.</hi></p>
                     <p>The Saloon accomodatiom is amidships, and the vessels are fitted throughout
                         with Electric Lights, and have all the latest improvements. For further
@@ -424,7 +425,7 @@
                 <div type="advert" xml:id="deg-ad-boe01">
                     <head>BANK OF EGYPT, LIMITED.</head>
                     <p>London, Alexandria, Cairo, Port Said, Khartoum.</p>
-                    <p>Subscribed Capital £1,000,000. Paid Up Capital £500,000.—Reserve £480,000. </p>
+                    <p>Subscribed Capital £1,000,000. Paid up Capital £500,000.—Reserve £430,000. </p>
                     <p>The Bank undertakes every kind of Banking business.</p>
                     <p>Fixed deposits accepted at the Cairo Branch on the following terms : 3
                         months, 2 %. 6 months, 2 1/2 %. 12 months, 3 % </p>
@@ -545,7 +546,7 @@
                     <head>DEUTSCHE BANK,</head>
                     <p>BERLIN, W.</p>
                     <p>CAPITAL...... . M200,000,000 — RESERVE..M97,000,000</p>
-                    <p>Dividends paid during last 10 years, (1896-1905,) 10, 10, 10 1/2, 11, 11, 11,
+                    <p>Dividends paid during last 10 years, (1896-1906) 10, 10, 10 1/2, 11, 11, 11,
                         11, 11, 12, 12 per cent</p>
                     <p>BRANCHES—Bremen, Dresden, Frankfort-on-M., Hamburg, Leipzig, Munioh,
                         Nuremberg, Augsburg, Wiesbaden.</p>
@@ -974,7 +975,7 @@
                         Cathedral (now a mosque) begun in 1300 and finished in 1312, together with
                         other ancient ruins and the Venetian fortifications, the finest in the
                         world. Also the tower or palace, the scene of “Othello'' and of Ford's
-                        “Lover's Melancholy.'' The climate of Cyprus in the winter months is
+                        “Lover's Melancholy." The climate of Cyprus in the winter months is
                         delightful and the Island will well repay a visit.</p>
                     <p>Information as to tickets, trains, etc., may be obtained of Messrs. Thomas
                         Cook &amp; Son, Egypt, or from the General Manager Railways, Famagusta. G.
@@ -983,7 +984,7 @@
                 </div>
                 <div type="advert">
                     <head>Egyptian Bonded Warehouses Company, Limited,</head>
-                    <p>(SOCIÉTÉ DES ENTREPÔTE D'EGYPTE</p>
+                    <p>(SOCIÉTÉ DES ENTREPÔTE D'EGYPTE)</p>
                     <p>Bonded Warehouses in Alexandria, Cairo, Port Said and Suez.</p>
                     <p>Special Departments for clearing and forwarding and for a luggage and parcel
                         Express Services.</p>
@@ -1196,15 +1197,13 @@
                     <p>CAIRO and ALEXANDRIA.</p>
                 </div>
                 <div type="advert" xml:id="deg-ad-cpc01">
-                    <head>THE CROWN PRESERVED COAL CO. Ld</head>
+                    <head>THE CROWN PRESERVED COAL CO.</head>
+                    <p>Limited.</p>
                     <p>Works and Shipping Ports:</p>
-                    <p>Liverpool, 1886. Jamaicao, 1891. Chicago, 1893. Highest Award.</p>
                     <p>CARDIFF and Port Talbot.</p>
                     <p>Manufactuerers and Shippers of "CROWN FUEL" used by Warships, and State and
                         Colonial Railways.</p>
-                    <p>Tel. Address: "Crown, Cardiff"</p>
-                    <!-- illeg -->
-                    <p>Trade Mark</p>
+                    <p>Tel. Address: "CROWN, Cardiff"</p>
                 </div>
                 <cb n="2"/>
                 <div type="advert" xml:id="deg-ad-yos04">
@@ -1237,7 +1236,7 @@
                         soulage immédiatement de leurs piqûres. </p>
                     <p>Dépôt pour l'Egypte . Mnogreger, Pharmacien.</p>
                     <p>Alexandria, Cairo, Ibrahimieh, Luxor. </p>
-                    <p>Iolima Co., Ltd., &amp; Rue de la Palx, Paris.</p>
+                    <p>Ioilma Co., Ltd., &amp; Rue de la Palx, Paris.</p>
                 </div>
                 <div type="advert">
                     <head>Ships, Steamer, Launches, Sail &amp; Steam Yacht.</head>
@@ -1291,10 +1290,10 @@
                             >24882-31-10-906</measure></p>
                 </div>
                 <div type="advert" xml:id="deg-ad-lip01">
-                    <head>LIPTON , Limited.</head>
+                    <head>LIPTON, Limited.</head>
                     <p>NAVAL &amp; MILITARY CONTRACTORS.</p>
-                    <p>Office and Stores : 31 Boulevard de Ramleh.</p>
-                    <p>P. O. BOX 665 ; TELEPHONE, 1686.</p>
+                    <p>Office &amp; Stores : 31 Boulevard de Ramleh.</p>
+                    <p>P. O. BOX 665 ; TELEPHONE, 1682.</p>
                     <p>TEA, PROVISION, WINE &amp; SPIRIT MERCHANTS.</p>
                     <p>TEA MERCHANTS TO THE KING OF ENGLAND.</p>
                     <p>BRANCHES THROUGHOUT THE WORLD.</p>
@@ -1304,7 +1303,7 @@
                     </p>
                 </div>
                 <div type="advert" xml:id="deg-ad-bla01">
-                    <head>Beetham's "Larola"</head>
+                    <head>Beetham's LAIT Reg. "Larola"</head>
                     <p>Prevents the attack of mosquitoes.</p>
                     <p>Will entirely Remove all ROUGHNESS, REDNESS, HEAT, IRRITATION, &amp;c., in a
                         very short time. IT KEEPS THE SKIN SOFT, SMOOTH, AND WHITE at all seasons,
@@ -1388,15 +1387,7 @@
                         accurate fit is guaranteed.</p>
                     <p>Riding Breeches cut on the most approved lines from 42/-</p>
                 </div>
-
-
-
-
-
-
-
                 <cb n="3"/>
-
                 <div type="advert">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" rows="5" xml:id="deg-ta-coce01">
@@ -1407,7 +1398,7 @@
                             <cell>September.</cell>
                         </row>
                         <row>
-                            <cell>Tues. 17 </cell>
+                            <cell><date when="1907-09-17">Tues. 17</date></cell>
                             <cell><p> Alhambra Theatre. French Comedy<lb/>Troupe. "L'Ange du
                                     Foyer."</p>
                                 <p>San Stefano Casino Grand Symphony<lb/>Concert. Every afternoon at
@@ -1431,11 +1422,11 @@
                                 6.45.</p></cell>
                         </row>
                         <row>
-                            <cell>Sat. 21</cell>
+                            <cell><date when="1907-09-21">Sat. 21</date></cell>
                             <cell>Alexandria Swimming Club. Boat<lb/>leaves Marina, 3.15 p.m.</cell>
                         </row>
                         <row>
-                            <cell>Sun. 22</cell>
+                            <cell><date when="1907-09-22">Sun. 22</date></cell>
                             <cell>San Stefano Casino Classical Con<lb/>cert</cell>
                         </row>
                     </table>
@@ -1447,17 +1438,17 @@
                             <cell>September.</cell>
                         </row>
                         <row>
-                            <cell>Tues 17.</cell>
+                            <cell><date when="1907-09-17">Tues 17.</date></cell>
                             <cell><p>Esbekieh Gardens Military Band <lb/> 9 to 11</p><p>Esbekieh
                                     Gardens Theatre. 6.30. <lb/> Theatre des Ambassadeurs,
                                 9.30.</p></cell>
                         </row>
                         <row>
-                            <cell>Fri. 20</cell>
+                            <cell><date when="1907-09-20">Fri. 20</date></cell>
                             <cell><p>Esbekieh Gardens Military Band <lb/> 9 to 11</p></cell>
                         </row>
                         <row>
-                            <cell>Sun. 22</cell>
+                            <cell><date when="1907-09-21">Sun. 22</date></cell>
                             <cell><p>Zoological Gardens. Ghizeh Boy-<lb/> Band. Afternoon</p></cell>
                         </row>
                     </table>
@@ -1525,7 +1516,6 @@
                     <p>F. G. DAVIDSON, Suez.</p>
                 </div>
                 <cb n="4"/>
-
                 <div type="item" xml:id="deg-el-egsa02">
                     <head>THE EGYPTIAN GAZETTE.</head>
                     <p>SUBSCRIPTIONS.—Alexandria, Cairo, and the Interior of Egypt (including
@@ -1564,7 +1554,7 @@
                 </div>
                 <div type="item">
                     <head>OCCIDENT v. ORIENT.</head>
-                    <p> | The anti-Asiatic riots in the United States have suddenly assumed a shape
+                    <p> The anti-Asiatic riots in the United States have suddenly assumed a shape
                         which affects Great Britain far more seriously than did those of a few
                         months ago. In the case of the anti Japanese agitation, our interest was
                         only contingent; in that of the anti-Hindoo agitation which has just
@@ -1589,7 +1579,7 @@
                         their way to draw down the wrath of their hosts, and risk a possible
                         lynching and certain banishment by attacking those who outnumber them by
                         thousands to one. </p>
-                    <p> - It so happens that the City Cogncil of Bellingham have acted in an
+                    <p> It so happens that the City Cogncil of Bellingham have acted in an
                         unexpectedly creditable manner, in comparison with the course pursued by the
                         Corporation of San Francisco. They have sworn in special officers to protect
                         the strangers within their gates; but those strangers are already leaving
@@ -1612,7 +1602,7 @@
                         Asiaties; it simply forbids the entry into the Colony of paupers or persons
                         likely to become a public charge, idiots lunatios, diseased, immoral and
                         criminal persons, and anybody who, when asked, fails to write in some
-                        European language application for admission to the Colony. </p>
+                        European language application for admission to the Colony.</p>
                     <p> For all practical purposes such an Act hardly operates against any but
                         Asiaties. And it is probably small consolation to the Hindoo to remember
                         that he is exeluded from a British Colony, not as a British subject, but as
@@ -1627,7 +1617,7 @@
                         have not even a distinctive name of their own. The British Government have
                         protested in the past against such exelusion laws, and have vetoed some of
                         them on occasion; but neither their protest nor their veto has been of any
-                        effect. A sel-governing State of the Ernpire has, in practice, the power to
+                        effect. A sel-governing State of the Empire has, in practice, the power to
                         say whom it will accept or refuse within its borders; and the admittedly
                         impotent attitude of Lord Elgin in the latest case of British Indians in the
                         Transvaal only tells again an oft-told tale. In these circumstances, it may
@@ -1647,7 +1637,6 @@
                     <p><measure type="indexNo">29242-26-11-90</measure> J. VOCLES, Propr.
                         Manager,</p>
                 </div>
-
             </div>
             <pb n="3"/>
             <div type="page" n="3">
@@ -1739,20 +1728,20 @@
                             Bharia Kamel, Alexandria 12 rue Rosette--to open a branch at Petersburg.
                             This new sehool which is already well frequented will certainly follow
                             the example given by its 300 senior schools and like them will be
-                            patronized by the success based on gratitude and esteem. (Apvr.)</p>
+                            patronized by the success based on gratitude and esteem. (ADVT.)</p>
                     </div>
                 </div>
                 <div type="section" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS</head>
-                    <p>The 8,8. "Moorish Prince" left Malta on the 14th inst, and is due to arrive
+                    <p>The S.S. "Moorish Prince" left Malta on the 14th inst, and is due to arrive
                         at Alexandria on Wednesday the 18th September</p>
-                    <p>The 8.8. "Cyprian Prince" with passengers and general cargo left Manchester
+                    <p>The S.S. "Cyprian Prince" with passengers and general cargo left Manchester
                         on the 13th inst., and is due to arrive at Alexandria on or about the 29th
                         September.</p>
-                    <p>The 8.8. "Trojan Prince," with passengers and general cargo, left London on
+                    <p>The S.S. "Trojan Prince," with passengers and general cargo, left London on
                         the 15th inst, and is due to arrive at Alexandria on or about the 1st
                         October.</p>
-                    <p>The 8.. "Indian Prince" left Antwerp on the 16th inst. and is due to arrive
+                    <p>The S.S. "Indian Prince" left Antwerp on the 16th inst. and is due to arrive
                         at Alexandria on or about the 1st October.</p>
                     <p>The S.S. "Andalusian" left last night from Malta and is due here on the 20th
                         inst, with passengers and mails.</p>
@@ -1765,8 +1754,9 @@
                         Discipline et Humanité, grande scène dramatique et réaliste ; un sculpteur
                         express, scède à transformations ; diseuse de bonne aventure, seene de ger
                         re; silhouette animée, scène à trucs; la Vengeance do Forgeron, grande scène
-                        dramatique en 60 tableaux ; au premier jour; et le Bombardement de
-                        Casablanca, scene absolument authentique prise sur le vif. </p>
+                        dramatique en 60 tableaux ; au premier jour; et le <hi rend="italic"
+                            >Bombardement de Casablanca,</hi> scene absolument authentique prise sur
+                        le vif. </p>
                 </div>
                 <cb n="2"/>
                 <div type="section">
@@ -1775,7 +1765,7 @@
                     <div type="subsection">
                         <head>THE NILE SUPPLY AND SEASON</head>
                         <p> In his report upon the irrigation service in Egypt and the Sudan for the
-                            year 1906 Sir William Garstin says : </p>
+                            year 1906 Sir William Garstin says :- </p>
                         <p>The year 1906 showed a decided improvement, as regards river discharges,
                             over its immediate predecessors. For seven years previous, the levels
                             throughout the year had been persistently below the average, and in one
@@ -1827,7 +1817,7 @@
                             water forthcoming with which to meet it. Until the period of severe
                             pressure (which occurs annually in July, just before the arrival of the
                             flood) arose, water was plentiful every where, and the distribution gave
-                            but little tronble. </p>
+                            but little trouble. </p>
                         <p><hi rend="italic">(To be continued)</hi></p>
                     </div>
                 </div>
@@ -1872,19 +1862,19 @@
                         <head>Source of wealth</head>
                         <p><hi rend="italic">(Continued.)</hi></p>
                         <p> Many other things have contributed to the sound economic condition of
-                            Egypt. The adjective "economio” implies not merely that which pertains
+                            Egypt. The adjective "economic” implies not merely that which pertains
                             to the regulation of a country's management, but denotes equally freedom
                             from wastefulness and extravagance. I need not dwell on the regularity
                             and the reforms introduced, for they are known to all who have followed
                             Lord Cromer's brilliant carcor, nor need I refer in great detail to the
-                            excellence of the financial system now. 80 firmly establis. hed, yet it
-                            is useful to point out that the latest Trade and Customs retums show a
+                            excellence of the financial system now so firmly established, yet it is
+                            useful to point out that the latest Trade and Customs returns show a
                             higher total than any ever previously attained, the total value of
                             merchandise imported and exported in 1906 amounting to £48,888,000, as
                             against less than half that sum in 1896. The revenue of Egypt has
                             Nkewise steadily expanded - during the last five years at an average
                             annual rate of £553,900 from £9,675,000 in 1887 to £15,374,000 in 1906.
-                            There is as well a sum of over elever millions sterling standing to the
+                            There is as well a sum of over eleven millions sterling standing to the
                             credit of the reserve fund, while the total amount of the Egyptian debt
                             now in the hands of the public is but £87,416,000, and the interest
                             charge borne by the taxpayers but £3,368,000, as compared with
@@ -1911,7 +1901,7 @@
                             exists in Egypt for the <hi rend="italic">bona fide</hi> British
                             investor, and I shall venture to indicate, quoting chapter and verse for
                             my beliefs, certain safe investments.</p>
-                        <p>To the far sighted the recent Bourse troubles will appear but a blessing
+                        <p>To the far-sighted the recent Bourse troubles will appear but a blessing
                             in disguise. Not only was a larger quantity of shares placed last winter
                             on the Alexandria market than the members of the European colonies in
                             Egypt could absorb, but practically no assistance was forthcoming from
@@ -1920,8 +1910,8 @@
                             agricultural lands. Not having sufficient ready-money capital, European
                             purchasers of the new shares multiplied their holdings by having
                             recourse to the old expedient of borrowing from their bankers,
-                            depositing as cover first their gilt | edged bearer securities-e.g.,
-                            National, and Agricultural, Bank of Egypt shares--and final ly, as
+                            depositing as cover first their gilt edged bearer securities-e.g.,
+                            National, and Agricultural, Bank of Egypt shares--and finally, as
                             collateral cover, their newly-purchased shares. Seeing that the spirit
                             of speculation was abroad, and that the concurrent and extraordinary
                             boom in building plots must sooner or later, bring disaster to many, the
@@ -1931,23 +1921,31 @@
                             caused the speculative bubble to burst, operators were not only
                             frequently unable to pay off their loans, or provide fresh marginal
                             cover, but in many cases found them selves saddled with lines of new
-                            shares (to say nothing of building lands)which had becomeprao tically,
-                            though but temporarily, unmarketable Thus they were constrained to allow
-                            the Banks to protect themselves by selling the securities deposited with
-                            them as guarantee for advances and, as sound shares like those of the
-                            National Bank of Egypt and of the Agricultural Bank were chief among the
-                            securities readily saleable, the consequence was that these highclass
-                            shares were thrown in large numbers on The market, with the inevitable
-                            result that National Banks tell from 281, at which figure they stood at
-                            the beginning of the present year to below £17, while Agrionltural Banks
-                            nenoted from £10 to 77. And it is noteworthy that the fall was
-                            aggravated by many of the shares be ing sold in Paris at the time when
-                            that Bourse was already depressed on account of the serious disturbances
-                            among the wine-growers in the extreme south of France. The financial
-                            position in Egypt thus became almost unique scarcity (of money) in the
-                            midst of plentywondrons prosperity and yet dearth of funds. <hi
-                                rend="italic">(To be continued.)</hi></p>
+                            shares (to say nothing of building lands) which had become practically,
+                            though but temporarily, unmarketable. Thus they were constrained to
+                            allow the Banks to protect themselves by selling the securities
+                            deposited with them as guarantee for advances and, as sound shares like
+                            those of the National Bank of Egypt and of the Agricultural Bank were
+                            chief among the securities readily saleable, the consequence was that
+                            these highclass shares were thrown in large numbers on The market, with
+                            the inevitable result that National Banks tell from 281, at which figure
+                            they stood at the beginning of the present year to below £17, while
+                            Agricultural Banks reacted from £10 to 7 1/4. And it is noteworthy that
+                            the fall was aggravated by many of the shares being sold in Paris at the
+                            time when that Bourse was already depressed on account of the serious
+                            disturbances among the wine-growers in the extreme south of France. The
+                            financial position in Egypt thus became almost unique scarcity (of
+                            money) in the midst of plenty-a wondrous prosperity and yet dearth of
+                            funds. <hi rend="italic">(To be continued.)</hi></p>
                     </div>
+                </div>
+                <div type="advert">
+                    <head>Cheap Gas from Common Fuels</head>
+                    <p>for Engines, Manufacturing, Furnaces, Pumping, Irrigation, Incandescent
+                        Lighting and Generation of Electricity. Lane's Producers are available for
+                        Land, River or Ocean Service. Agents required. Address Howard Lane, 125
+                        Edmund Street, Birmingham, England.</p>
+                    <p><measure type="indexNo">30798-31-12-907</measure></p>
                 </div>
                 <cb n="4"/>
                 <div type="section" feature="social">
@@ -1987,10 +1985,10 @@
                         repaired, operations are now being continued withont interruption. This
                         morning seventy men were sent off to the wrecked vessel to jettison cargo,
                         and on their arrival they immediately commenced throwing overboard general
-                        cargo, including cases of whiskey, firebrieks, coal, etc., etc. It is
+                        cargo, including cases of whiskey, firebricks, coal, etc., etc. It is
                         considered that, should the present favourable conditions continne, the
                         vessel will be got off the rocks during the course of Thursday. The wind is
-                        now blowing chiefly from the north, the sen is calm, and the swell bas
+                        now blowing chiefly from the north, the sea is calm, and the swell has
                         subsided considerably.</p>
                 </div>
                 <div type="item">
@@ -2021,11 +2019,11 @@
                         low Mr. Poggetti rose to fire, but his companion brought dowh the bird
                         before he could shoot, and Mr. Poggetti received a part of the charge full
                         in the face. The damaging shot bad been fired from a distattee of only 15 to
-                        20 yards, and infliotod considerable injury on Mr. Poggetti in left ey being
-                        badly affected. First aid was rendered at the house of Mr. Eynaud and Mr.
-                        Poggatti was afterwands conveyed to his own hom where he was attended by Dr.
-                        Borghi and Dr. Danaprindie. It is feared that the professor will lose the
-                        sight of his left eye.</p>
+                        20 yards, and inflicted considerable injury on Mr. Poggetti in left eye
+                        being badly affected. First aid was rendered at the house of Mr. Eynaud and
+                        Mr. Poggatti was afterwards conveyed to his own home where he was attended
+                        by Dr. Borghi and Dr. Danaprindie. It is feared that the professor will lose
+                        the sight of his left eye.</p>
                 </div>
                 <cb n="5"/>
                 <div type="section" feature="sport">
@@ -2033,16 +2031,16 @@
                     <div type="item">
                         <head>ALEXANDRIA SWIMMING CLUB</head>
                         <p> We are desired by the honorary secretary of the Alexandria Swimming Club
-                            to remind our readers that the fifth annual aqustio sports of the club
+                            to remind our readers that the fifth annual aqautic sports of the club
                             will be held on Saturday, the 12th of October, at Gabbary. The entries
                             for the various events promise to be even more numerous than last year,
                             and a record success is guaranteed by the energy displayed by the hon.
-                            secretary and the committee in the organisation of the meeting. </p>
-                        <p>Members who have not as yet sent in their entry fortas-should do so at
-                            once and should also pot in an appearance, at the baths on Saturday or
+                            secretary and the committee in the organisation of the meeting.</p>
+                        <p>Members who have not as yet sent in their entry forms should do so at
+                            once and should also put in an appearance, at the baths on Saturday or
                             Sunday next, at any time from 3.30 p.m., for the purpose of having their
                             times taken. Non-members desiring to compete in the sports, will kindly
-                            communicate with the Hon. See on or böföre Saturday next the 21st inst.
+                            communicate with the Hon. See on or before Saturday next the 21st inst.
                             Amongst other events the following will take place 60 yards Senior
                             Handicap for “Sirdar" medal Senior and Junior Diving Championship,
                             Juniors Race, Veterans Race and a 300 yards Invitation Team Race between
@@ -2084,7 +2082,7 @@
                     </div>
                     <div type="item">
                         <head>CRICKET.</head>
-                        <p> INCAPABLES Y. INCOMPETENTS. (FROM A CORRESPONDENT.)</p>
+                        <p> INCAPABLES v. INCOMPETENTS. (FROM A CORRESPONDENT.)</p>
                         <p>A match between the above mentioned teams took place on the A.C.C. ground
                             on Friday afternoon. The Incapables were suitably led by Mt. H. P.
                             Carver while a natural course of selection devolved the captainey, of
@@ -2095,13 +2093,13 @@
                         <p>The Incompetents fulfilled the hopes of their sponsors until the arrival
                             of Mr. R Barnard on the scene, who capably seeonded by Capt. Potts
                             succeeded in all but putting matters on an even keel, Mr. Barand gave an
-                            astonishing ly dashing display to the tone of 61 compiled in less than
+                            astonishingly dashing display to the tone of 61 compiled in less than
                             half an hour. </p>
                         <p>The fact remains that the fortune of the Incapables was remarkable in
                             winning this match against the exceptional bowling of Messrs D. Morice
                             and L. Reid ably supported by the fielding of Messrs. Etherington Smith,
                             and Borton. Messrs. Leslie, Beid, and Monica were at home before, during
-                            and after the match to their numetons friends and admirers, who spends
+                            and after the match to their numetons friends and admirers, who spent
                             most enjoyable afternoon </p>
                         <p>Appended is the soore -</p>
                         <table rows="14" cols="2">
@@ -2166,9 +2164,6 @@
                                 <cell>120</cell>
                             </row>
                         </table>
-
-
-
                         <cb n="6"/>
                         <p>INCOMPETENTS</p>
                         <table rows="13" cols="2">
@@ -2291,7 +2286,7 @@
                 </div>
                 <div type="item">
                     <head>CINEMATOGRAPHIC URBANORA</head>
-                    <p> Le plasgrand évènement de l'année, "L'Expé. dition française au Maroe", sera
+                    <p> Le plasgrand évènement de l'année, "L'Expédition française au Maroe", sera
                         donnée sous peu de jours au cinématographe Urbanonamais jusqu'ici il n'avait
                         été donné de voir de vues aussi saisisseintek Walte aspres nature, prises
                         sur le vif et garanties authentiques et non de fantaisie, elles seront
@@ -2305,8 +2300,6 @@
                         sont incontestables, seront une poignante actualité que tout le monde voudra
                         voir, </p>
                 </div>
-
-
             </div>
             <pb n="4"/>
             <div type="page" n="4">
@@ -2391,7 +2384,7 @@
                         <row role="label">
                             <cell> </cell>
                             <cell>Banks' buying</cell>
-                            <cell>Banks' selling* </cell>
+                            <cell>Banks' selling*</cell>
                         </row>
                         <row>
                             <cell>London cheque</cell>
@@ -2682,17 +2675,13 @@
                     <head>BOURSE KHEDIVIALE</head>
                     <p>CONTRATS</p>
                     <p>Fluctuations de 9h.30 à 1h. p.m.</p>
-                    <p>
-                        <hi rend="italic">Cotons F.G.F.Br.</hi>
-                    </p>
+                    <p><hi rend="italic">Cotons F.G.F.Br.</hi></p>
                     <p>Dans la matinée; prix plus haut pour novembre tal. <measure unit="tal">19
                             11/32</measure> à <measure unit="tal">—/—</measure> ; plus bas pour
                         novembre <measure unit="tal">19 1/16</measure> à <measure unit="tal">—
                             /—</measure>: janvier <measure unit="tal">19 9/32 </measure> a <measure
                             unit="tal">-/-</measure></p>
-                    <p>
-                        <hi rend="italic">Grains de coton</hi>
-                    </p>
+                    <p><hi rend="italic">Grains de coton</hi></p>
                     <p>Dans la matinée ; prix plus haut pour 3 mois. P.T. <measure unit="pt">70
                             10/40</measure> à <measure unit="pt">—/—</measure>: plus bas pour 3
                         mois. <measure unit="pt">70 5/40</measure> à <measure unit="pt"
@@ -3027,9 +3016,9 @@
                     </table>
                     <div type="item">
                         <head>ARRIVAGES</head>
-                        <dateline>des <date when="1907-09-15"> dimanche 15 </date> et <date
-                                when="1907-09-16"> lundi 16 september 1907</date></dateline>
-                        <p>Documents de l’ “Alexandria General Produce Association.”</p>
+                        <dateline>du <date when="1907-09-15"> mardi 17 septembre
+                            1907</date></dateline>
+                        <p>Documents de l’ “Alexandria General Produce Assoc.”</p>
                         <table rows="9" cols="4" xml:id="deg-ta-mmeb07">
                             <row role="label">
                                 <cell/>
@@ -3254,7 +3243,7 @@
                 </div>
                 <div type="item" xml:lang="fr" xml:id="deg-el-dehe1">
                     <head>DERNIERE HEURE</head>
-                    <p>(Clôture de la Bourse Khédiviale 1h. p.m.) </p>
+                    <p>(Clôture de la Bourse Khédiviale 1 h. p.m.) </p>
                     <p>Cours de l’Association des Courtiers en Marchandises </p>
                     <table cols="5" xml:id="deg-ta-dehe1">
                         <row role="label">
@@ -3291,7 +3280,7 @@
                             <cell>Nov.-Dec.-Jan.</cell>
                             <cell>P.T.</cell>
                             <cell><measure unit="tal">69 30/40</measure></cell>
-                            <cell>"</cell>
+                            <cell>a</cell>
                             <cell><measure unit="tal">35/40</measure></cell>
                         </row>
 
@@ -4166,7 +4155,7 @@
                     </table>
                 </div>
                 <div type="item" xml:lang="fr" xml:id="deg-el-teha01">
-                    <head>TELEGRAMME HAVAS</head>
+                    <head>Telegramme Havas</head>
                     <dateline>BOURSE du <date when="1907-09-16">16 septembre 1907</date></dateline>
                     <p>COURS DES VALEURS A TERMS, CLOTURE</p>
                     <table cols="3" xml:id="deg-ta-teha01">
@@ -4181,27 +4170,27 @@
                         <row>
                             <cell>Dette Egyptienne Unifié</cell>
                             <cell>"</cell>
-                            <cell><measure unit="fcs">107 40</measure></cell>
+                            <cell><measure unit="fcs">103 95</measure></cell>
                         </row>
                         <row>
                             <cell>Extérieur espagnol</cell>
                             <cell>"</cell>
-                            <cell><measure unit="fcs">90 47</measure></cell>
+                            <cell><measure unit="fcs">92 90</measure></cell>
                         </row>
                         <row>
                             <cell>Russe consolidé</cell>
                             <cell>"</cell>
-                            <cell><measure unit="fcs">85 60</measure></cell>
+                            <cell><measure unit="fcs">76 30</measure></cell>
                         </row>
                         <row>
                             <cell>Actions de Suez</cell>
                             <cell>"</cell>
-                            <cell><measure unit="fcs">4440 –</measure></cell>
+                            <cell><measure unit="fcs">4593 –</measure></cell>
                         </row>
                         <row>
                             <cell>Crédit Foncier Egyptien</cell>
                             <cell>"</cell>
-                            <cell><measure unit="fcs">840 –</measure></cell>
+                            <cell><measure unit="fcs">689 –</measure></cell>
                         </row>
                         <row>
                             <cell>Crédit Lyonnais</cell>
@@ -4241,7 +4230,7 @@
                         <row>
                             <cell>Change sur Londres</cell>
                             <cell>" </cell>
-                            <cell><measure unit="fcs">25 12 1/2</measure></cell>
+                            <cell><measure unit="fcs">25 13 1/2</measure></cell>
                         </row>
                         <row role="label">
                             <cell cols="3"><placeName>LONDRES</placeName></cell>
@@ -5092,7 +5081,7 @@
                         </row>
                     </table>
                 </div>
-                
+
 
 
 
@@ -5113,9 +5102,9 @@
                 <div type="section" feature="wire">
                     <head>TELEGRAMS.</head>
                     <div type="item">
-                        <head>THE CASABLANCA SITUATION.</head>
-                        <p>GUN PRACTICE CAUSES PANIC.</p>
-                        <p>THE COAST QUIET.</p>
+                        <head>THE CASABLANCA SITUATION.<lb/>GUN PRACTICE CAUSES PANIC. <lb/>THE
+                            COAST QUIET.</head>
+
                         <div type="wireReport">
                             <dateline>CASABLANCA, September 16.</dateline>
                             <p>M. Regnault, the French Minister at Tangier, has arrived here in
@@ -5128,10 +5117,10 @@
                         </div>
                         <div type="wireReport">
                             <dateline>PARIS, September 16.</dateline>
-                            <p> The Chaouias emissaries have accepted all | the conditions of
-                                General Drude. They desire to retorn and appear again on Thursday
-                                with the Kaids and delegates from each tribe in order to make a
-                                general surrender.<hi rend="italic">(Havas)</hi></p>
+                            <p> The Chaouias emissaries have accepted all the conditions of General
+                                Drude. They desire to retorn and appear again on Thursday with the
+                                Kaids and delegates from each tribe in order to make a general
+                                    surrender.<hi rend="italic">(Havas)</hi></p>
                         </div>
                         <div type="wireReport">
                             <dateline>CASABLANCA, September 16.</dateline>
@@ -5145,8 +5134,8 @@
 
                     </div>
                     <div type="section">
-                        <head>THE DANGER OF MODERNISM.</head>
-                        <p>A VATICAN ENCYCLICAL.</p>
+                        <head>THE DANGER OF MODERNISM.<lb/>A VATICAN ENCYCLICAL.</head>
+
                         <div type="wireReport">
                             <dateline>Rome, September 16.</dateline>
                             <p>The Vatican has published an important Encyclical declaring modernism
@@ -5160,8 +5149,7 @@
                         </div>
                     </div>
                     <div type="section">
-                        <head>CHOLERA IN RUSSIA</head>
-                        <p>INCREASE OF EPIDEMIC.</p>
+                        <head>CHOLERA IN RUSSIA<lb/>INCREASE OF EPIDEMIC.</head>
                         <div type="wireReport">
                             <dateline> ST. PETERSBURG, September 16.</dateline>
                             <p>There have been 1663 cases of cholera at Astrakan since the outbreak
@@ -5170,8 +5158,7 @@
                         </div>
                     </div>
                     <div type="section">
-                        <head>THE ANTWERP STRIKES</head>
-                        <p>ROTTERDAM NOW EFFECTED</p>
+                        <head>THE ANTWERP STRIKES<lb/>ROTTERDAM NOW EFFECTED</head>
                         <div type="wireReport">
                             <dateline>ANTWERP, September 16.</dateline>
                             <p>1000 more English strike-breakers arrived here to-day, but many,
@@ -5235,21 +5222,21 @@
                         tend bis explorations, and bought up a whole quarter of the village. A few
                         days' work brought to light some thirty rolls of Greek and Coptio papyrus
                         and several manuscript folios with the name of Menander. </p>
-                    <p>The discovery was kept secret for nearly a year to give the savants time to
-                        decipher the manuscripts and continue their excavations. The family papers
-                        founds with the manuscripts belonged to a local lawyer who lived in the
-                        sixth century, whose property seems mostly to have been situated at Antinoe,
-                        which is at some distance from Aphroditopolis the Lesser, I as Komishagon
-                        was then called. Consequently if any further fragments exist they are more
-                        likely to be found at Antinöe. With indomitable patience, M. Lefebvre has
-                        reconstituted and translated thirteen hundred and twentyeight verses, and he
-                        judges that they belong to four comedies-The Epitrepontes ("The Judgment"),
-                        The Perikeiromène ("The Shorn Sheep"), and probably to "The Hero" and "The
-                        Samian." The Epitrepontes is a play in six acts, and treats of a theme
-                        beloved of Greek playwrights : a betrayed maiden, a child whose birth is a
-                        secret to everybody but the mother; and the complications which arise give
-                        the author free scope for the exercise of his imagination and art in
-                        dialogue. </p>
+                    <p>The discovery was kept secret for nearly a year to give the <hi rend="italic"
+                            >savants</hi> time to decipher the manuscripts and continue their
+                        excavations. The family papers founds with the manuscripts belonged to a
+                        local lawyer who lived in the sixth century, whose property seems mostly to
+                        have been situated at Antinoe, which is at some distance from Aphroditopolis
+                        the Lesser, I as Komishagon was then called. Consequently if any further
+                        fragments exist they are more likely to be found at Antinöe. With
+                        indomitable patience, M. Lefebvre has reconstituted and translated thirteen
+                        hundred and twentyeight verses, and he judges that they belong to four
+                        comedies-The Epitrepontes ("The Judgment"), The Perikeiromène ("The Shorn
+                        Sheep"), and probably to "The Hero" and "The Samian." The Epitrepontes is a
+                        play in six acts, and treats of a theme beloved of Greek playwrights : a
+                        betrayed maiden, a child whose birth is a secret to everybody but the
+                        mother; and the complications which arise give the author free scope for the
+                        exercise of his imagination and art in dialogue.</p>
                     <p>In the case of Menander, his popularity depended not on bis -plots, but on
                         the facility with which he transformed old types and served them up to his
                         audience in a brillant picture of contemporary manners, adorned with the
@@ -5270,7 +5257,7 @@
                         shall strike you with my staff.” Daos con tinues his tale, to the effect
                         that he met Syriskos, and told him that he was sorry he had picked up the
                         child, as he did not know what to do with it. "Then, before I could finish,
-                        Syriskos began saying. '0, Daos, may you prosper in all your undertakings,'
+                        Syriskos began saying. 'O, Daos, may you prosper in all your undertakings,'
                         and, enumerating all the good things that I might desire, ending up with,
                         "Give me the child, and may you be happy and free from care ! I have a wife
                         who has just had and lost an infant,' by whom he meant that woman there, who
@@ -5336,7 +5323,7 @@
                         the Court and the numerous active and pensioned officials, while 500,000
                         lire is set aside for education and charitable purposes. No longer has the
                         Pope any Civil List to aid him to meet this expenditure. It is true that the
-                        Italian Government has decreed to the Pope a subsidy of 3,225,000 | lire,
+                        Italian Government has decreed to the Pope a subsidy of 3,225,000 lire,
                         which was approximately the amount of the Civil List at the Church States,
                         but the Vatican, which does not profess to recognise the Kingdom of Italy,
                         has never accepted this subsidy, which in the course of years would have
@@ -5397,72 +5384,79 @@
                 </div>
 
                 <div type="section" feature="army">
-                    <head>ARMY AND NAVY.</head>
-                    <head>(FROM OUR OWN CORRESPONDENT.)</head>
-                    <p> London, September 5th.</p>
-                    <p>In order to raise additional recruits for the Royal Dublin Pusiliers,
-                        recruiting for that ancient regiment has been opened in the North Irish
-                        Regimental District. </p>
-                    <p>The troop ship "Assaye" left Southampton yesterday with over 1000 troops on
-                        board for various regiments in India. The "Assaye" will call at Port Said on
-                        the 15th inst. </p>
-                    <p>Colonel James Magill, C.B. Royal Army Medical Corps, for the past few years
-                        P.M.O. at Cairo, now retires on his well earned pension of £689 per annem.
-                        He rendered fine service up the Nile in the Expedition of 188485 for the
-                        relief of Gordon, then shut up in the Khartoum ; and in the South African
-                        War his very valuable services were recognised by a well earned C.B. </p>
-                    <p>The cruiser "Europa" will arrive at Port Said on the 21st inst. en voyage to
-                        Colombo, Ceylon, to where she is carrying a relief crew for the "Powerful,"
-                        flagship of the Australian Squadron. </p>
-                    <p>The Fourth Cruiser Squadron will leave England on the 3rd prox. for a cruise
-                        to Gibraltar and Aranci Bay, Sardinia, arriving at the latter point on the
-                        last day of the month. </p>
-                    <p>The cruiser Sappho" will leave Chatham on the 17th inst. with reliefs for
-                        distribution amongst the destroyers on the Mediterranean Station. The
-                        battleship "Glory," which leaves for the same destination about the same
-                        date, also brings out additional ratings for various ships. </p>
-                    <p>A new pattern forage cap has been approved for substantive colonels not on
-                        the staff. It will have as a badge the Royal crest in em broidery, the peak
-                        being plain gold embroidery, (infantry pattern) inch wide. The band will be
-                        of blue cloth, 15 inches wide, between scarlet borders, with a scarlet welt </p>
-                    <p>Scout sergeants and first class scouts in battalions will in future wear a
-                        brass fleur-de lis badge, with bar below, on the right arm above the elbow
-                        on tunics and all jackets. In the case of non-commissioned officers the the
-                        hadge will be above their chevrons. </p>
-                    <p>September 7th.</p>
-                    <p>Lieutenant W. H. Whyte, Royal Dublin Pusiliers, lately with the 1st Battalion
-                        at Alexandria, has been placed on half pay owing to ill health </p>
-                    <p>Lieutenant C. A. Howard, 4th Battalion King's Royal Rifle Corps, has been
-                        promoted to fill the vacancy for a captain in that regiment. He gets the
-                        triple stars at nine years service, having originally entered the King's
-                        Shropshire Light Infantry in August, 1898, transferred to the Rifles in
-                        January, 1901, and Baw a good deal of service in South Africa with the South
-                        African Light Horse (Queen's medal with four clasps.) </p>
-                    <p>It has been notified that sword-bayonets of the 1908 pattern cannot at
-                        present be supplied for units of the Royal Engineers, Royal Garri son
-                        Artillery, Army Service Corps and Army Ordnance Corps at home which are
-                        being re-armed with the short rifle; and, therefore the 1888 pattern
-                        sword-bayonet must be retained by these troops. Men who are going abroad
-                        during the trooping will be provided with the new weapon. </p>
-                    <p>One of the most expensive items of warfare, either on land or sen, nowadays
-                        is that of big gun ammunition. A protracted campaign would cripple a small
-                        state in that matter alone. For instance the ordinary cordite shell fired
-                        from the 9.2 gun costs £14 188. a common shell filled with lyddite costs £12
-                        88. 9d. a steel shell for armour piercing, filled with lyddite, costs £14
-                        129. 3d, whilst each solid steel shot for armour piercing represents a value
-                        of £25 17s. For the bin guns each cordite cartridge costs £2 12s. a common
-                        shell filled with lyddite costs £8 189. </p>
-                    <p>The battleship “Glory" will be commissioned at Portsmouth on the 18th inst.
-                        and not as previously stated, by Captain R.8. Phipps Hornby as flagship of
-                        Prince Louis of Battenberg, second in command of the Mediterranean. Fleet.
-                        Captain Phipps Hornby is a member of </p>
-                    <cb n="5"/>
-                    <p>famous naval and military family which bas done great work in Empire
-                        building. He entered the service in January, 1879, took five "firsts" at his
-                        examination for promotion, became commander in 1898, and captain in 1908,
-                        and was a middy of the battleship "Alexandra" at the bombardment of
-                        Alexandria, July, 1882 (Egyptian medal with "Alexandria” clasp, and the
-                        Khedive's star).</p>
+                    <head>ARMY AND NAVY</head>
+                    <p>(FROM OUR OWN CORRESPONDENT.)</p>
+                    <div type="subsection">
+                        <dateline>London, September 5th.</dateline>
+                        <p>In order to raise additional recruits for the Royal Dublin Pusiliers,
+                            recruiting for that ancient regiment has been opened in the North Irish
+                            Regimental District. </p>
+                        <p>The troop ship "Assaye" left Southampton yesterday with over 1000 troops
+                            on board for various regiments in India. The "Assaye" will call at Port
+                            Said on the 15th inst. </p>
+                        <p>Colonel James Magill, C.B. Royal Army Medical Corps, for the past few
+                            years P.M.O. at Cairo, now retires on his well earned pension of £689
+                            per annem. He rendered fine service up the Nile in the Expedition of
+                            188485 for the relief of Gordon, then shut up in the Khartoum ; and in
+                            the South African War his very valuable services were recognised by a
+                            well earned C.B. </p>
+                        <p>The cruiser "Europa" will arrive at Port Said on the 21st inst. en voyage
+                            to Colombo, Ceylon, to where she is carrying a relief crew for the
+                            "Powerful," flagship of the Australian Squadron. </p>
+                        <p>The Fourth Cruiser Squadron will leave England on the 3rd prox. for a
+                            cruise to Gibraltar and Aranci Bay, Sardinia, arriving at the latter
+                            point on the last day of the month. </p>
+                        <p>The cruiser "Sappho" will leave Chatham on the 17th inst. with reliefs
+                            for distribution amongst the destroyers on the Mediterranean Station.
+                            The battleship "Glory," which leaves for the same destination about the
+                            same date, also brings out additional ratings for various ships. </p>
+                        <p>A new pattern forage cap has been approved for substantive colonels not
+                            on the staff. It will have as a badge the Royal crest in em broidery,
+                            the peak being plain gold embroidery, (infantry pattern) inch wide. The
+                            band will be of blue cloth, 15 inches wide, between scarlet borders,
+                            with a scarlet welt</p>
+                        <p>Scout sergeants and first class scouts in battalions will in future wear
+                            a brass fleur-de lys badge, with bar below, on the right arm above the
+                            elbow on tunics and all jackets. In the case of non-commissioned
+                            officers the the hadge will be above their chevrons.</p>
+                    </div>
+                    <div type="subsection">
+                        <dateline><date when="1907-09-07">September 7th.</date></dateline>
+                        <p>Lieutenant W. H. Whyte, Royal Dublin Pusiliers, lately with the 1st
+                            Battalion at Alexandria, has been placed on half pay owing to ill health </p>
+                        <p>Lieutenant C. A. Howard, 4th Battalion King's Royal Rifle Corps, has been
+                            promoted to fill the vacancy for a captain in that regiment. He gets the
+                            triple stars at nine years service, having originally entered the King's
+                            Shropshire Light Infantry in August, 1898, transferred to the Rifles in
+                            January, 1901, and Baw a good deal of service in South Africa with the
+                            South African Light Horse (Queen's medal with four clasps.) </p>
+                        <p>It has been notified that sword-bayonets of the 1908 pattern cannot at
+                            present be supplied for units of the Royal Engineers, Royal Garri son
+                            Artillery, Army Service Corps and Army Ordnance Corps at home which are
+                            being re-armed with the short rifle; and, therefore the 1888 pattern
+                            sword-bayonet must be retained by these troops. Men who are going abroad
+                            during the trooping will be provided with the new weapon. </p>
+                        <p>One of the most expensive items of warfare, either on land or sen,
+                            nowadays is that of big gun ammunition. A protracted campaign would
+                            cripple a small state in that matter alone. For instance the ordinary
+                            cordite shell fired from the 9.2 gun costs £14 13s. a common shell
+                            filled with lyddite costs £12 8s. 9d. a steel shell for armour piercing,
+                            filled with lyddite, costs £14 12s. 3d, whilst each solid steel shot for
+                            armour piercing represents a value of £25 17s. For the bin guns each
+                            cordite cartridge costs £2 12s. a common shell filled with lyddite costs
+                            £3 13s. </p>
+                        <p>The battleship “Glory" will be commissioned at Portsmouth on the 18th
+                            inst. and not as previously stated, by Captain R.8. Phipps Hornby as
+                            flagship of Prince Louis of Battenberg, second in command of the
+                            Mediterranean. Fleet. Captain Phipps Hornby is a member of a</p>
+                        <cb n="5"/>
+                        <p>famous naval and military family which bas done great work in Empire
+                            building. He entered the service in January, 1879, took five "firsts" at
+                            his examination for promotion, became commander in 1898, and captain in
+                            1908, and was a middy of the battleship "Alexandra" at the bombardment
+                            of Alexandria, July, 1882 (Egyptian medal with "Alexandria” clasp, and
+                            the Khedive's star).</p>
+                    </div>
                 </div>
                 <div type="item">
                     <head>EGYPTIAN YARNS IN LANCASHIRE</head>
@@ -5476,7 +5470,7 @@
                         being caused to manufacturers. The margin in most counts and qualities is
                         healthy and remunerative, and in this section of our trade a healthy
                         business is secured for several months to come. In the special marks long
-                        delivery has to be given for orders now entered. </p>
+                        delivery has to be given for orders now entered.</p>
                 </div>
                 <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
@@ -5609,19 +5603,18 @@
                     <head>P. SPICER &amp; SONS</head>
                     <head>FINE ART TAXIDERMISTS,</head>
                     <head>LEAMINGTON, England.</head>
-                    <p><hi rend="bold">Testimonial from J.C. MILLAIS, <unclear/>F.Z.3. Horsham <date
+                    <p><hi rend="bold">Testimonial from J.C. MILLAIS, ESQ., F.Z.3. Horsham <date
                                 when="1905-05-28">28th May, 1905.</date></hi></p>
                     <p>DEAR MR> SPICER.-The work of which you send me photos is certainly of very
                         high quality and I have rarely seen Heads' mounted with such skill and
                         finish. Only an Artist could bestow the amount of care and modelling which
                         appear in the faces of Deer, and in your works you are so highly successful
-                        there is little left to be desired.</p>
-                    <p>Yours very truly,</p>
+                        there is little left to be desired. Yours very truly,</p>
                     <p><hi rend="bold">J.C. MILLAIS,</hi></p>
                     <p>Only address:-</p>
                     <p><hi rend="bold">LEAMINGTON, ENGLAND.</hi></p>
-                    <p><hi rend="bold">Send for Illutrstated booklets.</hi><measure type="indexNo"
-                            >20892-13-2</measure></p>
+                    <p>Send for Illutrstated booklets.<measure type="indexNo"
+                        >20892-13*-1</measure></p>
                 </div>
                 <cb n="6"/>
                 <div type="advert" xml:id="deg-ad-dbc02">
@@ -6245,13 +6238,13 @@
                     <p>Bourse Khédiviale, le <date when="1907-09-14">14 septembre 1907</date>.</p>
                     <p>N.B.—Dans cette liquidation sont comprises les opérations jusqu'à 1h. p.m. de
                         ce jour.</p>
-                    <p>Paiement <date when="1905-07-10">le lundi 16 courant</date>.</p>
+                    <p>Paiement <date when="1907-09-16">le lundi 16 courant</date>.</p>
                 </div>
                 <div type="item" xml:lang="fr" xml:id="deg-el-pdco01">
                     <head>PRIMES DES CONTRATS</head>
                     <table cols="6" xml:id="deg-ta-pdco01">
                         <row>
-                            <cell role="label" cols="6">"SIMPLE FACULTE"</cell>
+                            <cell role="label" cols="6">"Simple Faculte"</cell>
                         </row>
                         <row>
                             <cell>Coton</cell>
@@ -6270,7 +6263,7 @@
                             <cell><measure unit="pt">- -/-</measure></cell>
                         </row>
                         <row>
-                            <cell role="label" cols="6">"STELLAGE”</cell>
+                            <cell role="label" cols="6">"Stellage”</cell>
                         </row>
                         <row>
                             <cell>Coton</cell>
@@ -6289,7 +6282,7 @@
                             <cell><measure unit="pt">- -/-</measure></cell>
                         </row>
                         <row>
-                            <cell role="label" cols="6">"DOUBLE"</cell>
+                            <cell role="label" cols="6">"Double"</cell>
                         </row>
                         <row>
                             <cell>Coton</cell>
@@ -6365,7 +6358,7 @@
                 <div type="item">
                     <head>Expeditions</head>
                     <p>Deter septembre 1906 au 31 aout 1907, par Ports de destination :</p>
-                    <p>Hull...T...196.288</p>
+                    <p>Hull...T...196.282</p>
                     <p>Londres...,,...73.335</p>
                     <p>Loiverpool...,,...86.679</p>
                     <p>Bristol...,,...34.973</p>
@@ -6447,10 +6440,10 @@
                         jour à 5 h. p.m.</p>
                     <p>L'enveloppe devra porter en outre la mention: Soumission pour la location de
                         café au Grand Jardin Nouzha</p>
-                    <p>Le cautionnement préva au cahier des charges, devra être versé an Service de
+                    <p>Le cautionnement prévu au cahier des charges, devra être versé au Service de
                         la Comptabilité générale avant l'ouverture des offres et au plus tard le ler
                         Octobre de 9 h. à midi.</p>
-                    <p>Toate offre qui ne remplit pas les conditions cids Mr Snartte</p>
+                    <p>Toute offre qui ne remplit pas les conditions cids Mr Snartte</p>
                     <p>Si les offres ne sont satisfaisantes, la Municipalité n'est pas tenue de les
                         accepter.</p>
                     <p>Alexandrie le 14/9/07.</p>
@@ -6680,21 +6673,16 @@
                     <p>Tipping and platform waggons for all purposes. Locomotives from 10-400
                         H.P.</p>
                     <p>Large stocks of rails, trucks and locomotives always kept in Alexandria.</p>
-                    <p>Sole Agents for Egypt and Sudan of:--</p>
-                    <p>COMPTOIR METALLURGIQUE EGYPTIEN</p>
-                    <p>Bridges and iron frame works.</p>
-                    <p>HUMBOLDT ENGINEERING WORKS CO</p>
-                    <p>KALK, NEAR COLOGNE.</p>
-                    <p>Steam engines, Boilers, complete installations for Factories.</p>
-                    <p>R. HORNSBY &amp; SONS, LTD., Grantham (England).</p>
-                    <p>Fixed and Portable oil engines.</p>
-                    <p>KIRCHNER &amp; CO., Leipzig.</p>
-                    <p>Wood working machinery.</p>
-                    <p>CARL MEISSNER, Hamburg.</p>
-                    <p>Oil motor boats and launches.</p>
-                    <p>ENGLISH AND AMERICAN SYSTEMS OF STEAM PLOUGHING ENGINES TO PLOUGH 8 TO 20
-                        FEDDANS PER DAY</p>
-                    <p/>
+                    <p>Machinery Department</p>
+                    <p>THE BRITISH WESTINCHROUSE ELECTRIC &amp; MANUFACTURING CO., LTD</p>
+                    <p>all kinds of Electirc Machinery &amp; Electric Installations</p>
+                    <p>J. KENNA-BRESLAU : Steam Ploughs - Road Rollers</p>
+                    <p>W.T.HENLEY'S TELEGRAPH WORKS Co,LTD,LONDON</p>
+                    <p>Cables high and low tension.</p>
+                    <p>E KIRCHNER &amp; Co, Lelpzig : Wood Working Machinery</p>
+                    <p>Wire Sopeways "BLEICHERT". SAFES "PANZER".</p>
+                    <p><hi rend="italic">Pulsometers-Injectors-Central Heating
+                        Installations.</hi></p>
                     <table cols="3" rows="3">
                         <row>
                             <cell rows="3">OFFICES:</cell>
@@ -6711,10 +6699,6 @@
                         </row>
                     </table>
                 </div>
-
-
-
-
                 <div type="advert" xml:id="deg-ad-tce01">
                     <head>Telephone Company of Egypt, Limited.</head>
                     <p>CAIRO-ALEXANDRIA TELEPHONE.--Rates as follows P.T. 5 for each 3 minutes, or
