@@ -77,13 +77,13 @@
                     <p>OUTWARD to AUSTRALIA.</p>
                     <p>R.M.S. “Ortontes" will leave Suez about <date when="1907-09-20">September
                             20</date></p>
+                    <p><name>R.M.S. "Ophir"</name> will leave Port Said about <date
+                            when="1907-10-04">October 4</date></p>
+                    <p>HOMEWARD to NAPLES, MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY.</p>
                     <p><name>R.M.S "Ortona"</name> will leave Suez about <date when="1907-09-24"
                             >September 24</date>.</p>
-                    <p>HOMEWARD to NAPLES, MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY.</p>
-                    <p><name>R.M.S. "Ophir"</name> will leave Port Said <date when="1907-10-04"
-                            >October 4</date></p>
-                    <p><name>R.M.S. “Ormus"</name> will leave Port Said <date when="1907-10-08"
-                            >October 8</date></p>
+                    <p><name>R.M.S. “Ormus"</name> will leave Port Said about <date
+                            when="1907-10-08">October 8</date></p>
                     <table cols="5">
                         <row role="label">
                             <cell>Passage</cell>
@@ -154,13 +154,13 @@
                         30.</p>
                     <p>S.S.<hi rend="bold">Ismallia</hi>Wednesday 4 p.m. Sept.11, 25. October 9 and
                         23.</p>
-                    <p><hi rend="bold">PALESTINE-SYRIA MAIL SERVICE.</hi></p>
-                    <p>The fast steamers Assouran, Menzaleh, leave Alexandria alternately on
-                        Saturdays at 4 p.m., for Jaffa (for Jerusalem), CAIFFA (for Nazareth),
-                        BEYROUT (for Damascus), Caifla (for Nazareth), Beyrouth (for Damascus),
-                        Tripoli, Alexandretta, and Mersina calling fortnightly at Larnaca (Cyprus)
-                        and continuing from Beyrons in alternate weeks to Rhodes, Smyrna, Mitylene,
-                        Dardanelles, Gallipoli and Constantinople.</p>
+                    <p><hi rend="bold">PALESTINE-SYRIA MAIL SERVICE.</hi>--The fast steamers
+                        Assouran, Menzaleh, leave Alexandria alternately on Saturdays at 4 p.m., for
+                        Jaffa (for Jerusalem), CAIFFA (for Nazareth), BEYROUT (for Damascus), Caifla
+                        (for Nazareth), Beyrouth (for Damascus), Tripoli, Alexandretta, and Mersina
+                        calling fortnightly at Larnaca (Cyprus) and continuing from Beyrons in
+                        alternate weeks to Rhodes, Smyrna, Mitylene, Dardanelles, Gallipoli and
+                        Constantinople.</p>
                     <p><hi rend="bold">SUDAN DIRECT MAIL SERVICE</hi> The mail steamers Dakahlied
                         and Kosseir leave Suez alternately on Wednesday at 5 p.m. for Port Sudan and
                         Suakim in connection with the Sudan Government Railways express service to
@@ -175,22 +175,23 @@
                 </div>
                 <div type="advert" xml:id="deg-ad-dll01">
                     <head>Deutsche Levante-Linie.</head>
-                    <p>Mail and Passenger Steamships. Regular three-weekly Service from HAMBURG, via
-                        ANTWERP &amp; MALTA, to ALEXANDRIA and vice-versa, admitting goods from all
-                        chief German Railway Stations on direct Bill of Landing to ALEXANDRIA and
-                        all chief ports of Egypt, Syria, etc., at favourable through rates of
-                        DEUTSCHE VERKEHR (traffic).</p>
-                    <p>EXPECTED AT ALEXANDRIA.</p>
-                    <p><name>S.S. Lesbos</name>
-                        <date when="1905-07-20">July 20</date> from
-                        <placeName>Antwerp</placeName>.</p>
-                    <p><name>S.S. Androos</name>
+                    <p>Mail and Passenger Steamships. Regular Service fortnightly from HAMBURG :
+                        weekly from ANTWERP ; every 4 weeks from BORDRAUX direct to ALEXANDRIA ;
+                        homewards every 2 weeks from ALEXANDRIA for ROTTERDAM and HAMBURG. Goods
+                        forwarded at through-rates from all German Railway Stations on direct Bills
+                        of Lading to ALENXANDRIA, CAIRO, SYRIA, etc. Special facilities for
+                        conveyance of cotton, etc from Alexandria viâ Rotterdam and Hamburg to
+                        German manufacturing towns.</p>
+                    <p>Expected at Alexandria:</p>
+                    <p><name>S.S. Andros</name>
                         <date when="1907-09-17">September 17th</date>
                         <placeName>Andros</placeName> from <placeName>Hamburg</placeName>.</p>
                     <p>
-                        <date when="1907-09-23">July 31</date>
+                        <date when="1907-09-23">September 23rd</date>
                         <placeName>Delos</placeName> from <placeName>Antwerp</placeName>.</p>
-                    <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria, Agent.</p>
+                    <p><hi rend="italic">For tariff and particulars apply to</hi>
+                        <hi rend="bold">ADOLPHE STROSS</hi>, <hi rend="italic">Alexandria,
+                            Agent.</hi></p>
                     <p><measure type="indexNo">15-9-907</measure></p>
                 </div>
                 <div type="advert" xml:id="deg-ad-mss01">
@@ -203,7 +204,6 @@
                             <cell>Tons. 4,000</cell>
                             <cell>*Khephres</cell>
                             <cell>Tons 5,000</cell>
-
                             <cell>*Meeris</cell>
                             <cell>Tons 7,500</cell>
                         </row>
@@ -215,7 +215,7 @@
                             <cell>*Philae</cell>
                             <cell>Tons 5,000</cell>
                             <cell>Set1</cell>
-                            <cell>(Tons 5,000)</cell>
+                            <cell>Tons 5,000</cell>
                         </row>
                         <row>
                             <cell>Karnak</cell>
@@ -254,8 +254,7 @@
                             Sept. for Dover </date> for London.</p>
                     <p><name><!-- Cannot read --></name>
                         <measure quantity="5800" unit="ton">5600</measure> will leave PORT SAID
-                        about <date when="1907-09-28">28th Sept. <!-- cannot read --></date> for
-                        London.</p>
+                        about <date when="1907-09-28">28th Sept.</date> for Dover</p>
                     <p><hi rend="bold">Due in LONDON or LIVERPOOL in 13 days.</hi></p>
                     <p>The Saloon accomodatiom is amidships, and the vessels are fitted throughout
                         with Electric Lights, and have all the latest improvements. For further
@@ -265,11 +264,18 @@
                     <p>G. J. GRACE &amp; CO., ALEXANDRIA. <measure type="indexNo"
                             >31-12-906</measure></p>
                 </div>
+                <div type="advert" xml:id="deg-ad-ens01">
+                    <head>EXPRESS NILE STEAMER Co.</head>
+                    <p>Cairo-Luxor Tourist Service -- Luxor-Assouan Express Service.</p>
+                    <p>Quick Freight Service ALEXANDRIA-CAIRO.</p>
+                    <p><measure>89662</measure> For Bookings and Particulars apply: CAIRO OFFICES,
+                        19, CHAREH-EL MADABEGH.</p>
+                </div>
                 <div type="advert" xml:id="deg-ad-cun03">
                     <head>Cunard Line.</head>
                     <p><hi rend="bold">Sailings</hi>from LIVERPOOL to NEW YORK and BOSTON every
                         Saturday and alternate Tuesday.</p>
-                    <p><hi rend="bold">Royal Mail Steamers</hi>LUCIANA and Campania dastest British
+                    <p><hi rend="bold">Royal Mail Steamers</hi>LUCIANA and Campania fastest British
                         steamers. Lusitania and Maurentania, 32500 tons, largest vessels in the
                         world. CARBONIA and Carmania latest and most luxurious Hotels afloat.</p>
                     <p><hi rend="bold">Regular Sailings</hi> between TRIESTE, FIUME, NAPLES, and NEW
@@ -374,8 +380,6 @@
                             <cell/>
                             <cell/>
                         </row>
-
-
                     </table>
                     <p>From Port-Said £2 less Homeward, and £2 more Outward. Second class, two
                         thirds of 1st Class Fares.</p>
@@ -423,13 +427,13 @@
                         Service. Departures from Port Said (Approximate Dates.) OUT to Aden,
                         Zanzibar, Cape Town and intermediate ports:--</p>
                     <p><name>S. S. Markgraf</name>
-                        <date when="1907-09-20">Sept. 20</date> | <name>S. S. Markgraf</name>
-                        <date when="1907-09-14">Sept. 14</date></p>
+                        <date when="1907-09-20">Sept. 20</date> | <name>Prinzessin</name>
+                        <date when="1907-09-11">Sept. 11</date></p>
                     <p>HOME to Naples, Genoa, Marseilles, Algiers, Tangiers, Lisbon, Dover,
                         Flushing, and Hamburg.</p>
                     <p><name>S. S. König</name>
                         <date when="1907-09-14">Sept. 14</date> | <name>S. S. Bürgermeister</name>
-                        <date when="1907-10-29">Oct. 5</date></p>
+                        <date when="1907-10-05">Oct. 5</date></p>
                     <p>First class steamers fitted with latest improvements. Stewardesses and
                         doctors carried. Low passage rates.</p>
                     <p>Splendid accommodation for passengars of all classes.</p>
@@ -468,7 +472,7 @@
                         </row>
                         <row>
                             <cell>Friday</cell>
-                            <cell><date when="1905-08-04">4 August</date></cell>
+                            <cell><date when="1907-09-27">27 Sept</date></cell>
                             <cell>at 4 p.m.</cell>
                             <cell>Congo</cell>
                             <cell>Capt. Baretge</cell>
@@ -478,14 +482,14 @@
                         </row>
                         <row>
                             <cell>Thursday</cell>
-                            <cell><date when="1905-09-05">5 Sept</date></cell>
+                            <cell><date when="1907-09-05">5 Sept</date></cell>
                             <cell>at 8 a.m.</cell>
                             <cell>Sydney</cell>
                             <cell>Capt. Barillion</cell>
                         </row>
                         <row>
                             <cell>Thursday</cell>
-                            <cell><date when="1907-09-19">6 Sept</date></cell>
+                            <cell><date when="1907-09-19">19 Sept</date></cell>
                             <cell>at 8 a.m.</cell>
                             <cell>Conge</cell>
                             <cell>Capt. Baretge</cell>
@@ -535,8 +539,8 @@
                         </row>
                         <row>
                             <cell>From Alexandria to Beyrouth</cell>
-                            <cell>£4.7.2</cell>
-                            <cell>£3.3.2.</cell>
+                            <cell>£4.7.</cell>
+                            <cell>£3.5.2.</cell>
                         </row>
                         <row>
                             <cell>Through tickets for Paris (via Marseilles from Alexandria)</cell>
@@ -838,7 +842,7 @@
                             <cell>S.S. Co. Ltd.</cell>
                         </row>
                     </table>
-                    <p>For particulars apply Manager, 3 St. MArk;s-St., Alexandria, or Messre. THOS.
+                    <p>For particulars apply Manager, 3 St. Mark's-St., Alexandria, or Messrs. THOS.
                         COOK &amp; SONS (Egypt) Ltd.</p>
                 </div>
                 <div type="advert" xml:id="deg-ad-ell03">
@@ -1030,8 +1034,7 @@
                         Suez.</p>
                 </div>
                 <div type="advert" xml:id="deg-ad-nml02">
-                    <head>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LTD. EST.
-                        1869.</head>
+                    <head>NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LTD. EST. 1869.</head>
                     <p>Funds exceed £4,000,000. Annual Income exceeds £700,000.</p>
                     <p>Special privileges offered to British Naval and Military Officers serving in
                         Egypt or the Soudan.</p>
@@ -1054,7 +1057,7 @@
                         <p>Branches at Port Sudan, Suakin &amp; Jeddah</p>
                         <p>Merchandise, furniture, baggage and personal effects forwarded, and
                             insurances effected to all parts of the world.</p>
-                        <p><measure type="indexNo">27376-28-2-907</measure></p>
+                        <p><measure type="indexNo">27376-28-2-90</measure></p>
                     </div>
                 </div>
                 <cb n="3"/>
@@ -1276,11 +1279,6 @@
                             Occupation and their families.</hi></p>
                     <p><measure>31-12-90</measure></p>
                 </div>
-
-
-
-
-
                 <div type="advert" xml:id="deg-ad-wsl02">
                     <head>WHITE STAR LINE.</head>
                     <p><hi rend="bold">NEW YORK AND BOSTON MEDITERRANEAN SERVICE.</hi></p>
@@ -1306,7 +1304,8 @@
                     <p><measure type="indexNo">2061-17-10-905</measure></p>
                 </div>
                 <div type="advert" xml:id="deg-ad-ell02">
-                    <head>ELLERMAN LINES LTD. (INCLUDING WESTCOTT &amp; LAURENCE LINE.)</head>
+                    <head>ELLERMAN LINES LTD.</head>
+                    <head type="sub">(INCLUDING WESTCOTT &amp; LAURENCE LINE.)</head>
                     <p>Regular sailings from Liverpool, Glasgow, Antwerp and London to Alexandria.
                         Frequent sailings from Alexandria to Liverpool and London. Through freight
                         rates to Inland towns in Great Britain also to the U.S.A n. n. TAMVACO,
@@ -1359,13 +1358,6 @@
                     <p>General Agents : BEHREND &amp; Co., Alexandria. LEON HELLER, Cairo Agent. G.
                         Lazzerini &amp; Co., Suez Agents</p>
                 </div>
-                <div type="advert" xml:id="deg-ad-pss01">
-                    <head>PORT SAID-SAVOY HOTEL.</head>
-                    <p>NEW FIRST-CLASS HOTEL, OVERLOOKING THE HARBOUR &amp; OPPOSITE CUSTOM
-                        HOUSE</p>
-                    <p>Open all the year round. — Well-appointed Bar. Electric Light.</p>
-                    <p>MODERATE CHARGES. SPECIAL TERMS FOR RESIDENTS.</p>
-                </div>
                 <div type="advert" xml:id="deg-ad-abw01">
                     <head>EGYPTIAN BONDED WAREHOUSE COMPANY, LTD.</head>
                     <p>(SOCIÉTÉ DES ENTREPÔTS D'EGYPTE)</p>
@@ -1415,14 +1407,9 @@
                         an advertising point of view.</p>
                     <p>For further information apply to the PUBLICITY SECTION, General Manager Dept.
                         Egyptian State Railways, Cairo.</p>
-                    <p>G.B. MACAULEY. GENERAL MANAGER.</p>
+                    <p>G.B. MACAULEY.<lb/>GENERAL MANAGER.</p>
                     <p>Cairo, June 1907.</p>
                 </div>
-
-
-
-
-
             </div>
             <pb n="2"/>
             <div type="page" n="2">
@@ -1494,11 +1481,11 @@
                     <head>McLAREN'S STEAM PLOUGHS</head>
                     <p>The specially adapted for Egypt, and suitable for every description of Soil
                         and Crop.</p>
-                    <p>McLaren's Kassabiehs</p>
+                    <p><hi rend="bold">McLaren's Kassabiehs</hi></p>
                     <p>are the best machines for levelling land and preparing it for Cotton or
                         Cereals. They are used by all the leading land companies and private owners,
                         and have given the greatest satisfaction wherever they have been tried.</p>
-                    <p>McLaren's Implements</p>
+                    <p><hi rend="bold">McLaren's Implements</hi></p>
                     <p>and steel ropes etc. can be supplied to work with any eisting ploughing
                         engines. List of users of our Engines and implements in Egypt with all other
                         information will be supplied by our Agents.</p>
@@ -1714,7 +1701,7 @@
                             <cell>September.</cell>
                         </row>
                         <row>
-                            <cell>Wed. 18 </cell>
+                            <cell><date when="1907-09-18">Wed. 18</date></cell>
                             <cell><p> Alhambra Theatre. French Comedy<lb/>Troupe. "L'Ange du
                                     Foyer."</p>
                                 <p>San Stefano Casino Grand Symphony<lb/>Concert. Every afternoon at
@@ -1738,12 +1725,12 @@
                                 6.45.</p></cell>
                         </row>
                         <row>
-                            <cell>Thur. 19</cell>
+                            <cell><date when="1907-09-19">Thur. 19</date></cell>
                             <cell><p>Mustapha Range Match King's Royal Rifles v. British Rifle
                                     Club<lb/> (Alex.) 3 p.m.</p></cell>
                         </row>
                         <row>
-                            <cell>Sat. 21</cell>
+                            <cell><date when="1907-09-21">Sat. 21</date></cell>
                             <cell><p>Mustapha Range B.R.C. (Alex)<lb/>Match and practice 2.30</p>
                                 <p>Alexandria Swimming Club. Boat<lb/>leaves Marina, 3.15
                                     p.m.</p><p>Alexandria Swimming Club. Bost leaves Marina, 3.15
@@ -1751,7 +1738,7 @@
 
                         </row>
                         <row>
-                            <cell>Sun. 22</cell>
+                            <cell><date when="1907-09-22">Sun. 22</date></cell>
                             <cell>San Stefano Casino Classical Con<lb/>cert</cell>
                         </row>
                     </table>
@@ -1763,20 +1750,20 @@
                             <cell>September.</cell>
                         </row>
                         <row>
-                            <cell>Wed. 18.</cell>
+                            <cell><date when="1907-09-18">Wed. 18.</date></cell>
                             <cell><p>Esbekieh Gardens Theatre. 6.30. <lb/> Theatre des Ambassadeurs,
                                     9.30.</p></cell>
                         </row>
                         <row>
-                            <cell>Fri. 20</cell>
+                            <cell><date when="1907-09-20">Fri. 20</date></cell>
                             <cell><p>Esbekieh Gardens Military Band <lb/> 9 to 11</p></cell>
                         </row>
                         <row>
-                            <cell>Sun. 22</cell>
+                            <cell><date when="1907-09-18">Sun. 22</date></cell>
                             <cell><p>Zoological Gardens. Ghizeh Boys<lb/> Band. Afternoon</p></cell>
                         </row>
                         <row>
-                            <cell>Tues. 24</cell>
+                            <cell><date when="1907-09-18">Tues. 24</date></cell>
                             <cell><p>Esbekieh Gardens. Military Band<lb/>9 to 11.</p></cell>
                         </row>
                     </table>
@@ -1798,7 +1785,7 @@
                     <p>Editor Manager - - R. SNELLING.</p>
                     <p>Price: ONE PIASTRE TARIFF.</p>
 
-                    <p>WEDNESDAY, SEPTEMBER 18, 1907.</p>
+                    <p><date when="1907-09-18">WEDNESDAY, SEPTEMBER 18, 1907.</date></p>
                 </div>
                 <div type="item">
                     <head>PORTUGUESE COLONIAL DEVELOPMENT.</head>
@@ -1810,7 +1797,7 @@
                         that only Portuguese pride in her ancient possession prevented her disposing
                         of them at a price to the highest bidder; in that case inevitably England.
                         Now, whether spurred on by the example of more virile neighbours, or roused
-                        to new exertions by a fresh lease of energy, it really appears that à new
+                        to new exertions by a fresh lease of energy, it really appears that a new
                         era of progress is in store for the oldest modern colonising nation in
                         Africa. Railways are being built connecting the Eastern and Western Coasts
                         with the still scarcely known interior, and a plan is already sketched out
@@ -1829,9 +1816,6 @@
             <div type="page" n="3">
                 <cols n="6"/>
                 <cb n="1"/>
-
-
-
                 <div type="section" feature="local">
                     <head> LOCAL, AND GENERAL.</head>
                     <div type="item">
@@ -1851,7 +1835,7 @@
                     </div>
                     <div type="item">
                         <head>The Brindisl Mail.</head>
-                        <p>The mail from Europe via Brindisi and Port - Said (P. and 0.) will be
+                        <p>The mail from Europe via Brindisi and Port - Said (P. and O.) will be
                             distributed at the Alexandria Post Office at half past four this
                             afternoon. </p>
                     </div>
@@ -1884,8 +1868,8 @@
                         <head>Sudan Rallways.</head>
                         <p>The repair of the line between Atbara and Port Sudan will be accomplished
                             towards the end of this week. The traffic on this line has been stopped
-                            for two inonths by the recent heavy rains, and as a consequence large
-                            quanti ties of merchandise have had to be stored at the stations. </p>
+                            for two months by the recent heavy rains, and as a consequence large
+                            quantities of merchandise have had to be stored at the stations. </p>
                     </div>
                     <div type="item">
                         <head>German Fete </head>
@@ -1898,15 +1882,15 @@
                     <div type="item">
                         <head>Kasr El Nil Barraoke </head>
                         <p>A most enjoyable evening was spent on Monday by those who attended the
-                            open- air concert held in the quadrangle of the Kasr el Nil Barracks.
-                            The programme had been very well arranged, and each item had its merit.
+                            open-air concert held in the quadrangle of the Kasr el Nil Barracks. The
+                            programme had been very well arranged, and each item had its merit.
                             Sapper Newton, Lance Corporal Maguire, and Col. Sergt Grant were
                             especially well received, and the success of Mr. Campbell was most
                             notable.</p>
                     </div>
                     <div type="item">
                         <head>Bubonic Plague. </head>
-                        <p>Eleven cases of bubonic plague were register ed throughout Egypt during
+                        <p>Eleven cases of bubonic plague were registered throughout Egypt during
                             the week ending the 16th September, of which 10 occurred at Alexandria
                             and the other at Simbellawine.</p>
                         <p>From the beginning of the year up to 16th instant, 1089 cases were
@@ -1921,7 +1905,7 @@
                             Sharia Darb el Barabia on Monday last and was instantly killed. A
                             similar accident occurred on the same day to Morcos Koudsi at Shoubra, A
                             native workman named Mohamed Boghdadi was killed on Monday morning by a
-                            sudden fall of earth which completely buried bim while he was engaged
+                            sudden fall of earth which completely buried him while he was engaged
                             upon digging a pit in the Esbet el Gabal. A mason fell from the
                             scaffolding of a house belonging to Mr. Sednoui in Sharia Nubar on
                             Monday, and was immediately killed.</p>
@@ -2003,21 +1987,21 @@
                             The works have vigorously pushed on, and a good season's work is
                             anticipated. </p>
                         <p> The total expenditure, including cost of land and buildings, amounted to
-                            L.E. 158,911, most of which was for advancès on plant and materials
+                            L.E. 158,911, most of which was for advances on plant and materials
                             according to the contract. </p>
                     </div>
                 </div>
 
                 <div type="item">
                     <head>THE KHEDIVE.</head>
-                    <p> The Khedive is expected to leave Constan| tipople on Saturday next and
-                        arrive at Alexandria on Tuesday morning. </p>
+                    <p> The Khedive is expected to leave Constantinople on Saturday next and arrive
+                        at Alexandria on Tuesday morning. </p>
                 </div>
                 <div type="item">
                     <head> RAILWAY ADMINISTRATION. </head>
                     <p> It is reported that the Railway Administration has purchased from Boghos
                         Pasha Nubar an area of 10,000 square metres of land adjoining Cairo station,
-                        at the rate of P.T. 60. </p>
+                        at the rate of P.T. 60.</p>
                 </div>
                 <div type="item">
                     <head>THE RENT CRISIS, </head>
@@ -2029,7 +2013,7 @@
                 <div type="item">
                     <head>CAIRO WATER SUPPLY. </head>
                     <p>Further action regarding the question of the purity of the Cairo driking
-                        water is being taken by Dr. Hussein Bey Yousri who is for mulating an appeal
+                        water is being taken by Dr. Hussein Bey Yousri who is formulating an appeal
                         to the Government. The matter is also to be discussed at the Berlin Medical
                         Congress by Dr. Mohamed Pasha Shoukry. </p>
                 </div>
@@ -2211,7 +2195,7 @@
                     <head>RIFLE SHOOTING</head>
                     <p>A match will be shot on Thursday next, 19th inst., on the Range at Mustapha,
                         between teams from the Sergeants, King's Royal Rifles, and the British Rifle
-                        Club, (Alex) commencing at 8 pm. </p>
+                        Club, (Alex) commencing at 3 pm. </p>
                 </div>
                 <div type="item" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS.</head>
@@ -2267,7 +2251,7 @@
                     <p>The manuscript edited by Profr. Margoliouth is in the Boldeian Library and
                         its contents were evidently known to the scholar of al Azhar, who sometimes
                         made copies from it. </p>
-                    <p>JOSEPH OFFORD. </p>
+                    <p>JOSEPH OFFORD.</p>
                     <p><hi rend="italic">*The At-talij at-tahir fishiyam al-Malik adh-Dhahir, al
                             Qaim bi murat al-Hagg Abi Said Jaqmaq.</hi></p>
                 </div>
@@ -2279,13 +2263,13 @@
                         as good as could be desired. After spending last night in harbour the
                         "Berger Wilhelm” returned to the "Olivemoor" at daybreak this morning,
                         taking ont with her a lighter for the reception of cargo to be discharged.
-                        About 7 4. m. the salvage steamer flew two flags, as a signal, it is
+                        About 7 a.m. the salvage steamer flew two flags, as a signal, it is
                         supposed, for a second lighter, as shortly afterwards one was taken out by a
                         Ports and Lights tug. Pumping operations are still going Con and the cargo
                         is actively being discharged. The salvage steamer is to-day for the first
                         time alongside the "Olivemoor", so that operations are now greatly
-                        facilitated. Official reports still bold out every hope that the vessel will
-                        be got off the rocks to-morrow, . </p>
+                        facilitated. Official reports still hold out every hope that the vessel will
+                        be got off the rocks to-morrow. </p>
                 </div>
                 <div type="item">
                     <head>PROFESSOR LOOS </head>
@@ -2296,7 +2280,7 @@
                         a medal by the Liverpool School of Tropical Medicine. The Liverpool School
                         bus promoted some of the most user experiments yet undertaken and the mark
                         of their approval as manifested in the present instance is indeed a, token
-                        of esteem and an honour of which our fellow townsman might well be prond.
+                        of esteem and an honour of which our fellow townsman might well be proud.
                         Professor Loos is one of the most unassuming men in the Government service
                         and seeks not the light of publicity ; rather would he hide his light under
                         a bushel and all his friends will rejoice to hear that his devoted efforts
@@ -2307,7 +2291,7 @@
                     <head>PERSONAL AND SOCIAL</head>
                     <div type="item">
                         <p>Prince Aziz Hassan arrived at Alexandria this morning aboard his yacht
-                            "Artona". INS nede </p>
+                            "Artona".</p>
                         <p>Sir Eldon Gorst is expected back on the 6th of October and will stay at
                             Alexandria for a few days before returning to Cairo. </p>
                         <p> There is no foundation for the report that Gedge Pasha will shortly
@@ -2388,32 +2372,9 @@
                             de tous les cotée. Bien que l'automne dernier il fut deja clair qu'on et
                             mis en frein &amp; un développonent rapide, que les limites raisonnable
                             par le capital cient de dépasti, on t'out encore la conception trde
-                            netto, même dans les milieux de bonne heure au courant, de la ton</p>
+                            netto, même dans les milieux de bonne heure au courant, de la ton-</p>
                     </div>
                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
             <pb n="4"/>
             <div type="page" n="4">
@@ -2456,7 +2417,7 @@
                         que les paie ments en retard des appels sur les actions doivent Atre opérés
                         au plus tard le 30 Septembre '1907 ainsi que les intérêts dos. </p>
                     <p>En cas de non paiement les actions non li bérées seront acquises à la
-                        Société. </p>
+                        Société.</p>
                 </div>
                 <div type="item">
                     <head>Societe Internationale des Employes<lb/>D'ALEXANDRIE.</head>
@@ -2499,7 +2460,7 @@
                     <p>Les insertions ci-dessus sont faites gratuite. ment per les soins de la
                         Société et seuls les sociétaires peuvent en bénéficier. </p>
                     <p>Les personnes qui adressent des demandes à la Société, sont priées de joindre
-                        un timbre pour la réponse 9-4.907 NOTIOB. </p>
+                        un timbre pour la réponse <measure type="indexNo">9-4-907</measure></p>
                 </div>
                 <div type="item">
                     <head>Sudan Government </head>
@@ -2580,7 +2541,7 @@
                     <div type="item">
                         <p>GENTLEMAN wishes to correspond with educated, respectable young English
                             or American lady with a view to matrimony, Agencies discarded. Apply to
-                            P.C. Post Office Harrar. 30,898-24-6</p>
+                            P.C. Post Office Harrar. 30898-24-6</p>
                     </div>
                     <div type="item">
                         <p>GRAND CLEARANCE SALE by Public Auction of Liquidation Stock at Messrs.
@@ -2604,14 +2565,14 @@
                         <p>The celebrated Spirit Medium and scientific Palmist who has been so well
                             received in all parts of the United States. For reading chometer from
                             Handwriting, advice on health, Hereditary, and other subjects. A doctor
-                            writes: "Your delineation is wonderfully true You must have studied the
+                            writes: "Your delineation is wonderfully true. You must have studied the
                             subject very deeply." Palmistry ty pont Julietta can be consulted every
-                            day. From 12 m. till 1p.m. and 2 p.m. tillp.m. Banan, 'At homelete,
-                            attended. Lessons given what to do with your children. The oldest
-                            Palmiste And Payeho metrist in the world. Over twenty years experience.
-                            Clairvoyance and Chrystal Testimonials from the highest member in
-                            Sexiety can be seen at rue de l'Hôpital Gree Nos vira-vis de l'Hôpital
-                            Grec 81850-25-16</p>
+                            day. From 12 m. till 1p.m. and 2 p.m. till 8 p.m. Bazaars, 'At homes'
+                            etc., attended. Lessons given what to do with your children. The oldest
+                            Palmiste And Psychometrist in the world. Over twenty years experience.
+                            Clairvoyance and Chrystal. Testimonials from the highest member in
+                            Society can be seen at rue de l'Hôpital Gree No. 5, vis-a-vis de
+                            l'Hôpital Grec 81850-25-16</p>
                     </div>
                     <div type="item">
                         <p>INTELLIGENT man required for Alexandria knowing English, French, Arabic,
@@ -2631,7 +2592,7 @@
                     </div>
                     <div type="item">
                         <p>PHYSICAL CULTURE. Englishman would like to hear form young men desirous
-                            of following a course of Physical Culture, either fro, a health point of
+                            of following a course of Physical Culture, either from a health point of
                             view, or with the purpose of attaining exceptional physical strenth
                             terms moderate. Apply by letter to No.30922 "Egyptian Gazette."
                             30922-3-2</p>
@@ -2706,8 +2667,8 @@
                 <div type="item">
                     <head>THE CARIO EXCHANGE LIMITED</head>
                     <p>NOTICE IS HEREBY GIVEN to the shareholders of the above Company that the
-                        first call of 5/ per share is due on the 1st day of October 1907 and should
-                        be paid on or before that day to the Company's Banjers, the Anglo Egyptian
+                        first call of 5/- per share is due on the 1st day of October 1907 and should
+                        be paid on or before that day to the Company's Bankers, the Anglo Egyptian
                         Bank, Ltd., Cairo, during the usual Banking hours. Shareholders on paying
                         the call must present at the same time their Provisional Certification for
                         acknowledgement of the call by the Bank.</p>
@@ -2731,9 +2692,9 @@
                         liable to be forfeited</p>
                     <p>Dated the 14th day of September 1907</p>
                     <p>By order of the Board,</p>
-                    <p>W.C. SCALES,</p>
-                    <p><measure>30916-3-1</measure></p>
-                    <p>Local Secretary</p>
+                    <p>W.C. SCALES,<lb/><hi rend="italic">Local Secretary</hi></p>
+                    <p><measure type="italic">30916-3-1</measure></p>
+
                 </div>
                 <div type="item">
                     <head>Egyptian State Railways &amp; Telegraphs.<lb/>NOTICE.</head>
@@ -3421,10 +3382,6 @@
                         </row>
                     </table>
                 </div>
-
-
-
-
                 <cb n="5"/>
                 <div type="item" xml:id="deg-el-reut01">
                     <head>REUTER'S TELEGRAMS</head>
@@ -4148,15 +4105,15 @@
                         <div type="wireReport">
                             <dateline> CASABLANCA, September 17.</dateline>
                             <p> It is stated that General Drade's conditions include the surrender
-                                of the tribesmen impli. cated in the massacre, and the payment of an
+                                of the tribesmen implicated in the massacre, and the payment of an
                                 indemnity for the massacre and the sacking of Casablanca. Hostages
                                 are held as a guarantee of good faith. Four tribes near Casablanca
                                 treating with the French are willing to give bostages, and areasing
-                                their influence for peace with other tribes. Delegates from the
-                                tribes are still coming in, suing for peace. M. Regnault has
-                                received the Consular body bere. He stated that he hoped peace would
-                                shortly be restored and also good relations with the Arabs in the
-                                interior. <hi rend="italic">(Reuter)</hi></p>
+                                their influence for peace with other tribes.</p>
+                            <p>Delegates from the tribes are still coming in, suing for peace.</p>
+                            <p>M. Regnault has received the Consular body bere. He stated that he
+                                hoped peace would shortly be restored and also good relations with
+                                the Arabs in the interior. <hi rend="italic">(Reuter)</hi></p>
                         </div>
                         <div type="wireReport">
                             <dateline> CASABLANCA, September 17.</dateline>
@@ -4164,7 +4121,7 @@
                                 the prohibition of arms within a dozen kilometres of the town, in
                                 case of fresh trouble the disarming of the tribes, the surrender of
                                 the authors of the assassinations on July 30, each tribe will supply
-                                a chief as bostage; the indemnity of the war will be discussed later
+                                a chief as hostage; the indemnity of the war will be discussed later
                                 on. <hi rend="italic">(Havas)</hi></p>
                         </div>
                         <div type="wireReport">
@@ -4183,7 +4140,7 @@
                             <dateline>KURE, September 17.</dateline>
                             <p>40 of the crew of the battleship "Kashima' have been killed or
                                 wounded by the explosion of a shell after target practice. The
-                                killed include a lieutenant, two cadets, and a staff officer. The
+                                killed included a lieutenant, two cadets, and a staff officer. The
                                 majority of the bystanders were fearfully mutilated. The ship has
                                 been badly. damaged. (Later). 27 men have been killed and 16 wounded
                                     <hi rend="italic">(Reuter)</hi></p>
@@ -4203,7 +4160,7 @@
                         <div type="wireReport">
                             <dateline>LISBON, September 17.</dateline>
                             <p>According to news received from Portuguese Angola a fierce engagement
-                                took place at Cuamanbas on Sunday. Many were killed or wounded. <hi
+                                took place at Cuamanbas on Sunday. Many were killed or wounded.<hi
                                     rend="italic">(Reuter)</hi></p>
                         </div>
                     </div>
@@ -4213,8 +4170,8 @@
                             <dateline>BERLIN, September 17.</dateline>
                             <p>Mr. John Burns has arrived. He is investigating municipal
                                 institutions. The Prussian Ministers of the Interior and Finance
-                                attended a dinner given in his honor.<hi rend="italic"
-                                >(Reuter)</hi></p>
+                                attended a dinner given in his honour.<hi rend="italic"
+                                    >(Reuter)</hi></p>
                         </div>
                     </div>
                     <div type="item">
@@ -4232,7 +4189,7 @@
                         <head>ABYSSINIAN MISSION IN AUSTRIA. </head>
                         <div type="wireReport">
                             <dateline>VIENNA, September 17.</dateline>
-                            <p>The Emperor has given a gala dinner to the Abyssinian mission. <hi
+                            <p>The Emperor has given a gala dinner to the Abyssinian mission.<hi
                                     rend="italic">(Havas)</hi></p>
                         </div>
                     </div>
@@ -4468,7 +4425,7 @@
                         before it the strenuous counsel of the late Lord Salisbury, who was never
                         tired of insisting upon the inevitable evils which would spring from a
                         policy of laissez faire where Bulgarian aggrandisement was concerned. The
-                        present appeal is addressed :o Sir Charles Dilke, as one of the strongest
+                        present appeal is addressed to Sir Charles Dilke, as one of the strongest
                         and most intellectual spirits of Great Britainstrong in the face of
                         falsehood and hypocrisy, unbending and invincible in the support of truth."
                         It is impossible within the limits of a brief notice to review the various
@@ -4505,17 +4462,17 @@
                     <head>"HEADACHE, WEAKNESS, HEART TROUBLE"</head>
                     <p>I Suffered With for Year--Pe-ru-na Cured Me Entirely."</p>
                     <p> Miss Albina Chauvin, No. 50 Rue Agnes, St. Henri, Montroal, Can, Writer: </p>
-                    <p> "I consider Peruns better than any other remedy,w it cured me when nothing
-                        else could. I offered for yoan and yours with heart trouble, headache and
-                        weaknom. I never expected to find anything to ouro mo. i saw one day, in "La
-                        Presse," that Peruna was excellent and I tried it. Ono bottle produced a
+                    <p> "I consider Peruna better than any other remedy, as it cured me when nothing
+                        else could. I suffered for years and years with heart trouble, headache and
+                        weakness. I never expected to find anything to cure me. I saw one day, in
+                        "La Presse," that Peruna was excellent and I tried it. One bottle produced a
                         change in me and if the price had been $100 bottle I would have paid it
-                        gladly. I have taken six bottles and an entirely car Please accept my thanks
-                        and best wishes for your Peruna."</p>
+                        gladly. I have taken six bottles and am entirely cured. Please accept my
+                        thanks and best wishes for your Peruna."</p>
                     <table rows="1" cols="2">
                         <row>
                             <cell><p> Many cases of heart trouble are caused by reflex disturbances. </p>
-                                <p> Derangements of the stomach and liver produconymptoms of hoars
+                                <p> Derangements of the stomach and liver produconymptoms of heart
                                     trouble. Catarrh of the stomach is a very frequent cause of
                                     sympathetic heart disease </p>
                                 <p> Palpitation, shortness of breath and bloating after meals are
@@ -4523,11 +4480,12 @@
                             </cell>
                             <cell>
                                 <p> Such a condition of the stomach is also liable to produce
-                                    horasches of the worst sort. </p>
-                                <p> Medicines that palliate the symptoms will never lead to scuro. </p>
-                                <p> It is the effect which Peruna has upon the stomach, besling the
-                                    moons mom. brades and restoring the natural tubetion of the
-                                    stomach, that caused Peruna to bring such prompt relief,
+                                    headaches of the worst sort. </p>
+                                <p> Medicines that palliate the symptoms will never lead to
+                                    cure.</p>
+                                <p> It is the effect which Peruna has upon the stomach, healing the
+                                    muoons membranes and restoring the natural function of the
+                                    stomach, that causes Peruna to bring such prompt relief,
                                 </p></cell>
                         </row>
                     </table>
@@ -4552,16 +4510,16 @@
                         country at the end of July, </p>
                     <p>One of the British residents in the province, while on an assessment tour
                         with a small escort of police, was camped for the night inside a walled
-                        Dakkenkeri town, when he heard of a plot to assault the cainp and murder the
+                        Dakkenkeri town, when he heard of a plot to assault the camp and murder the
                         whole party during the night. Under cover of darkness be immediately escaped
-                        with bis people, and succeeded in getting clear of the gates before the
+                        with his people, and succeeded in getting clear of the gates before the
                         tribesmen became aware of their flight. The Dakkenkeris savagely pursued,
                         captured and maimed all the horses, seized the whole of the baggage and kit,
                         including the bedding, and wounded some of the force with poisoned arrows.
                         Fortunately none of the Resident's party was killed or seriously hurt, but
                         they arrived at headquarters at Yelwa, on the Niger, in a very exhausted
                         condition, possessed of nothing beyond the clothes they wore, having only
-                        reached safety after an arduous and continuous march of 48 hours. </p>
+                        reached safety after an arduous and continuous march of 48 hours.</p>
                     <p>Upon this matter being reported to Zongeri, after the matter had been
                         inquired into the High Commissioner despatched a force against the
                         aggressors, but details bave not yet been received of the progress of the
@@ -5040,8 +4998,8 @@
                     </table>
                     <p> S. Benmayer, 99 bags figs</p>
                     <p>F. Iglich, 28 crates palms</p>
-                    <p>M, Gouder, 40</p>
-                    <p>M, Dahi, 82 </p>
+                    <p>M, Gouder, 40 crates palms</p>
+                    <p>M, Dahi, 82 crates palms</p>
                     <p>S. Bollas, .8 bales skins</p>
                     <p>Wiesendanger, 44 bales skins</p>
                     <p>Deposito Birra Puntigam, 1,390 empty casks</p>
@@ -5135,11 +5093,12 @@
                         September :</p>
                     <p>Various, 2,430 baga rice, 36 bags henna, 156 Gupty casks, 21 packages
                         sundries</p>
-                    <p>E. Mallison and Co., 160 bales cotton FOR LA CANES</p>
+                    <p>E. Mallison and Co., 160 bales cotton</p>
+                    <p>FOR LA CANEE</p>
                     <p>Cocchino Bros, 5 bales cotton 50</p>
                     <cb n="2"/>
-                    <p>For MALTA and LIVERPOOL, by the S.S. Sar. dinin, sailed on the 10th September
-                        :</p>
+                    <p>For MALTA and LIVERPOOL, by the S.S. Sar. dinin, sailed on the<date
+                            when="1907-09-10">10th September</date> :</p>
                     <table rows="15" cols="4">
                         <row>
                             <cell>N. G. Onsulli,</cell>
@@ -5250,7 +5209,7 @@
                 </div>
                 <div type="advert">
                     <head>ASK FOR</head>
-                    <p>AMD IF NOT SUPPLIED</p>
+                    <p>AND IF NOT SUPPLIED</p>
                     <p>APPLY TO</p>
                     <p>JOHN B.CAFFARI</p>
                     <p>Alexandira &amp; Cairo.</p>
@@ -5271,7 +5230,7 @@
                         to the evening of the preceding day, complete tabular forms of the various
                         market fluctuations, and the copies of the official telegrams of the
                         Liverpool Cotton Association, etc., etc. Subscription for one year P.T. 100
-                        (inclusive of postage in Egypt- for abroad the postage is P.T. 10 extra).
+                        (inclusive of postage in Egypt for abroad the postage is P.T. 10 extra).
                         For Farther particulars apply to the Manager the "Egyptian Gazette.”</p>
                 </div>
                 <div type="item" xml:id="deg-el-nile01">
@@ -5845,7 +5804,7 @@
                 </div>
                 <div type="advert" xml:id="deg-ad-rbi01">
                     <head>Photographers. REISER &amp; BINDER Photographers.</head>
-                    <p>Alexandria &amp; Cairo. <measure type="indexNo">4-12 906</measure></p>
+                    <p>Alexandria &amp; Cairo. <measure type="indexNo">4-12-906</measure></p>
                 </div>
                 <cb n="4"/>
                 <div type="advert" xml:id="deg-ad-hrc01">
@@ -5875,40 +5834,42 @@
                     <head>ESTABLISHED 1825.</head>
                     <p>ACCUMULATED FUNDS £11,750,000.</p>
                     <p><hi rend="bold">NEW SCHEMES OF ASSURANCE.</hi></p>
-                    <p>ENDOWMENT ASSURANCES with guaranteed bonus on survival of 2 per annum for each
-                        100 of assurance.</p>
-                    <p>CHILDREN'S ENDOWMENTS at low rates, with return of all premiums paid in the event
-                        of death before the given age is attained.</p>
+                    <p>ENDOWMENT ASSURANCES with guaranteed bonus on survival of 2 per annum for
+                        each 100 of assurance.</p>
+                    <p>CHILDREN'S ENDOWMENTS at low rates, with return of all premiums paid in the
+                        event of death before the given age is attained.</p>
                     <p><hi rend="bold">EXAMPLES:</hi></p>
-                    <p>ENDOWMENT ASSURANCES WITH GUARANTEED BONUS ON SURVIVAL.-A, aged 30 next birthday,
-                        with Good prospect of longevity, takes out a Policy of £1,000 under this table
-                        for an Endowment Assurance payable at the age of 60 or earlier death, with a
-                        Guaranteed Bonus of 40s. per cent per annum. If he survives the fixed term, the
-                        annual premium for which will be £38:15:0. In the event of death within the 30
-                        yearsm only the sum assured in the Policy is payable, viz:- £1,000, but if he
-                        survives the term, he is entitled to receive besides £1,000, a Guaranteed Bonus
-                        of 30 times 40s. per cent; i.c. £800, or in all £600; and similarly for other
-                        periods and rates, Premiums can be paid quarterly or half-yearly if desired.</p>
-                    <p>CHILDREN'S ENDOWMENT.- An annual Premium of £18:1:3 will provide a child aged 1
-                        next birthday with an Endowment of £500 on attaining the age of 21. In the event
-                        of the child's death before the given age is attained, all the premiums paid to
-                        the Company will be return to the parent. Premiums can be paid quarterly or
-                        half-yearly if desired. Should the parent wish to discontinue the payment of
-                        premiums, he can claim a surrender value of 90 per cent of all the annual
-                        premiums paid by him, excepting the first, providing three full years premiums
-                        have been paid and the transaction is completed while the Policy is in force.
-                        Should the parent not wish to take the surrender value, he has the option, after
-                        three full years' premiums have been paid, of receiving a Paid-up Policy for
-                        such a proportion of the original Sum Assured as the number of payments made
-                        bears to the whole number payable. If written application be made and the
-                        transaction completed within the days of grace, and provided such proportion be
-                        not less than £50.</p>
-                    <p>For Prospectus, Forms of Proposal and all particulars, apply to the STANDARD LIFE
-                        OFFICE, STANDARD BUILDINGS, CAIRO.</p>
+                    <p>ENDOWMENT ASSURANCES WITH GUARANTEED BONUS ON SURVIVAL.-A, aged 30 next
+                        birthday, with Good prospect of longevity, takes out a Policy of £1,000
+                        under this table for an Endowment Assurance payable at the age of 60 or
+                        earlier death, with a Guaranteed Bonus of 40s. per cent per annum. If he
+                        survives the fixed term, the annual premium for which will be £38:15:0. In
+                        the event of death within the 30 yearsm only the sum assured in the Policy
+                        is payable, viz:- £1,000, but if he survives the term, he is entitled to
+                        receive besides £1,000, a Guaranteed Bonus of 30 times 40s. per cent; i.c.
+                        £800, or in all £600; and similarly for other periods and rates, Premiums
+                        can be paid quarterly or half-yearly if desired.</p>
+                    <p>CHILDREN'S ENDOWMENT.- An annual Premium of £18:1:3 will provide a child aged
+                        1 next birthday with an Endowment of £500 on attaining the age of 21. In the
+                        event of the child's death before the given age is attained, all the
+                        premiums paid to the Company will be return to the parent. Premiums can be
+                        paid quarterly or half-yearly if desired. Should the parent wish to
+                        discontinue the payment of premiums, he can claim a surrender value of 90
+                        per cent of all the annual premiums paid by him, excepting the first,
+                        providing three full years premiums have been paid and the transaction is
+                        completed while the Policy is in force. Should the parent not wish to take
+                        the surrender value, he has the option, after three full years' premiums
+                        have been paid, of receiving a Paid-up Policy for such a proportion of the
+                        original Sum Assured as the number of payments made bears to the whole
+                        number payable. If written application be made and the transaction completed
+                        within the days of grace, and provided such proportion be not less than
+                        £50.</p>
+                    <p>For Prospectus, Forms of Proposal and all particulars, apply to the STANDARD
+                        LIFE OFFICE, STANDARD BUILDINGS, CAIRO.</p>
                     <p><measure type="indexNo">30689-13-13</measure></p>
                 </div>
 
-<cols n="2"/>
+                <cols n="2"/>
                 <cb n="1"/>
                 <div type="advert" xml:id="deg-ad-cgg01">
                     <head>CHAMPAGNE GEORGE GOULET.</head>
@@ -5929,40 +5890,42 @@
                 </div>
                 <div type="advert" status="unverified">
                     <head>BERLITZ SCHOOLS OF LANGUAGE</head>
-                    <p>English, French, Arabic, Greek, xxxxxxx, etc. </p>
-                    <p>Private and Class Lessons -- xxxxxxxxx Lessons </p>
-                    <p>ALEXANDRIA XXXXX</p>
-                    <p>CAIRO XXXXX</p>
-                    <p>SUMMER BRANCH XXXXXXXXXX</p>
+                    <p>335 BRANCHES</p>
+                    <p>English, French, Arabic, Greek, Italian, etc. </p>
+                    <p>Private and Class Lessons -- Residence Lessons </p>
+                    <p>ALEXANDRIA 12 Rue Recette</p>
+                    <p>CAIRO 1 Sharia Kamel</p>
+                    <p>SUMMER BRANCH Ramieh Curiton Hotel</p>
                     <p><hi rend="bold">TRIAL LESSON FREE</hi></p>
                 </div>
                 <cb n="2"/>
                 <div type="advert" xml:id="deg-ad-the01">
                     <p>A BROKEN-DOWN SYSTEM.</p>
-                    <p>This is a condition (or disease) to which doctors give many names, but which few
-                        of them really understand. It it simply weakness—a break-down, as it were, of
-                        the vital forces that sustain the system. No matter what may be its causes (for
-                        they are almost numberless), its symptoms are much the same; the more prominent
-                        being sleeplessness, sense of prostration or weariness, depression of spirits
-                        and want of energy for all the ordinary affairs of life. Now, what alone is
-                        absolutely essential in all such cases is increased vitality—vigour--</p>
+                    <p>This is a condition (or disease) to which doctors give many names, but which
+                        few of them really understand. It it simply weakness—a break-down, as it
+                        were, of the vital forces that sustain the system. No matter what may be its
+                        causes (for they are almost numberless), its symptoms are much the same; the
+                        more prominent being sleeplessness, sense of prostration or weariness,
+                        depression of spirits and want of energy for all the ordinary affairs of
+                        life. Now, what alone is absolutely essential in all such cases is increased
+                        vitality—vigour--</p>
                     <p>VITAL STRENGTH &amp; ENERGY</p>
-                    <p>to throw off these morbid feelings, and experience proves that as night succeeds
-                        the day this may be more certainly secured by a course of the celebrated
-                        life-reviving tonic</p>
+                    <p>to throw off these morbid feelings, and experience proves that as night
+                        succeeds the day this may be more certainly secured by a course of the
+                        celebrated life-reviving tonic</p>
                     <p>THERAPION No.3</p>
-                    <p>than by any other known combination. So surely as it is taken in accordance with
-                        the printed directions accompanying it, will the shattered health be
+                    <p>than by any other known combination. So surely as it is taken in accordance
+                        with the printed directions accompanying it, will the shattered health be
                         restored,</p>
                     <p>THE EXPIRING LAMP OF LIFE LIGHTED UP AFRESH,</p>
                     <p>and a new existence imparted in place of what had so lately seemed worn-out,
                         "used up,” and valueless. This wonderful medicament is purely vegetable and
                         innocuous, is agreeable to the taste —suitable for all constitutions and
-                        conditions, in either sex; and it is difficult to imagine a case of disease or
-                        derangement, whose main features are those of debility, that will not be
-                        speedily and permanently benefited by this never-failing recuperative essence,
-                        which is destined to cast into oblivion everything that had preceded it for this
-                        wide-spread and numerous class of human ailments.</p>
+                        conditions, in either sex; and it is difficult to imagine a case of disease
+                        or derangement, whose main features are those of debility, that will not be
+                        speedily and permanently benefited by this never-failing recuperative
+                        essence, which is destined to cast into oblivion everything that had
+                        preceded it for this wide-spread and numerous class of human ailments.</p>
                     <p>THERAPION</p>
                     <p>is sold by the principal Chemists throughout the world. Price in England, 2 9
                         and 4/6. Purchasers should see that the word 'THERAPION' appears on British
@@ -5975,18 +5938,21 @@
                     <head>Dr. Le Clerc's<lb/> Pills for the Liver &amp; Kidneys</head>
                     <p>are an unfailing and reliable remedy for diseases of these important organs,
                         gout, rheumatism, gravel pains in the back and kindred ailments (acquired or
-                        constitutional). Sold by principal Chemists, not in loose quantities, but only
-                        in boxes, price 2s. 2d. bearing the British Government Stamp with the words
-                        Eugene Le Clerc, impressed thereon to protect the public from fraud.</p>
+                        constitutional). Sold by principal Chemists, not in loose quantities, but
+                        only in boxes, price 2s. 2d. bearing the British Government Stamp with the
+                        words Eugene Le Clerc, impressed thereon to protect the public from
+                        fraud.</p>
                     <p>Dr. Le Clerc's Soap.</p>
                     <p>Medical, antiseptic, used and recommended by eminent dermatoligists in the
-                        treatment of ecsema, lepers, psoriasis, ulcerations, skin eruptions, itching and
-                        irritating skin humours, baby rashes, etc., also a prophylactic against the risk
-                        of contracting disease and infectionus disorders generally. Its healing
-                        properties greatly minimize the inconveniences of shaving in cases of pimples,
-                        spots,<unclear/> In Tablets price 1s. sold by Max Fischer<unclear/>
-                        Alexandria.</p><p><measure type="indexNo">16-2-907</measure></p>
-                </div> </div>
+                        treatment of ecsema, lepers, psoriasis, ulcerations, skin eruptions, itching
+                        and irritating skin humours, baby rashes, etc., also a prophylactic against
+                        the risk of contracting disease and infectionus disorders generally. Its
+                        healing properties greatly minimize the inconveniences of shaving in cases
+                        of pimples, spots,<unclear/> In Tablets price 1s. sold by Max
+                        Fischer, Cairo and Alexandria.</p>
+                    <p><measure type="indexNo">16-2-907</measure></p>
+                </div>
+            </div>
         </body>
     </text>
 </TEI>
